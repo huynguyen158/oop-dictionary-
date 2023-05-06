@@ -1,0 +1,5956 @@
+(v) bỏ, từ bỏ
+null
+(n) khả năng, năng lực
+null
+(adj) có năng lực, có tài
+null
+(adv) (prep) khoảng, về
+null
+(adv) ở trên
+null
+(adv) ở, ra nước ngoài, ngoài trời
+null
+(n) sự vắng mặt
+null
+(adj) vắng mặt, nghỉ
+null
+(adj) tuyệt đối, hoàn toàn
+null
+(adv) tuyệt đối, hoàn toàn
+null
+(v) thu hút, hấp thu, lôi cuốn
+null
+(n) (v) lộng hành, lạm dụng
+null
+(adj) thuộc học viện, ĐH, viện hàn lâm
+null
+(n) trọng âm, dấu trọng âm
+null
+(v) chấp nhận, chấp thuận
+null
+(adj) có thể chấp nhận, chấp thuận
+null
+(n) lối, cửa, đường vào
+null
+(n) tai nạn, rủi ro
+null
+(adj) tình cờ, bất ngờ
+null
+(adv) tình cờ, ngẫu nhiên
+null
+(n) sự thích nghi, điều tiết
+null
+(v) đi theo, đi cùng, kèm theo
+null
+(n) (v) tài khoản, kế toán; tính toán
+null
+(adj) đúng đắn, chính xác, xác đáng
+null
+(v) tố cáo, buộc tội, kết tội
+null
+(n) axit
+null
+(v) công nhận, thừa nhận
+null
+(v) dành được, đạt được, kiếm được
+null
+(adv) (prep) qua, ngang qua
+null
+(n) sự tích cực, sự hoạt động, sự hăng hái
+null
+(n) diễn viên nam
+null
+(adj) thực tế, có thật
+null
+(adv) hiện nay, hiện tại
+null
+(n) diễn viên nữ
+null
+(v) tra, lắp vào
+null
+(v) cộng, thêm vào
+null
+(adj) thêm vào, tăng thêm
+null
+(n) (v) địa chỉ, đề địa chỉ
+null
+(adj) đầy, đầy đủ
+null
+(v) sửa lại cho đúng, điều chỉnh
+null
+(n) sự khâm phục,người khâm phục, thán phục
+null
+(v) khâm phục, thán phục
+null
+(v) nhận vào, cho vào, kết hợp
+null
+(v) nhận làm con nuôi, bố mẹ nuôi
+null
+(n) (adj) người lớn, người trưởng thành;
+null
+(n) (v) sự tiến bộ, tiến lên; đưa lên, đề xuất
+null
+(n) sự thuận lợi, lợi ích, lợi thế
+null
+(n) sự phiêu lưu, mạo hiểm
+null
+(v) báo cho biết, báo cho biết trước
+null
+(n) quảng cáo
+null
+(n) lời khuyên, lời chỉ bảo
+null
+(v) khuyên, khuyên bảo, răn bảo
+null
+(n) việc
+null
+(v) làm ảnh hưởng, tác động đến
+null
+(n) tình cảm, cảm xúc
+null
+(v) có thể, có đủ khả năng, điều kiện (làm gì)
+null
+(adj) sợ, sợ hãi, hoảng sợ
+null
+(prep) (conj) sau, đằng sau, sau khi
+null
+(n) buổi chiều
+null
+(adv) sau này, về sau, rồi thì, sau đấy
+null
+(n) tuổi
+null
+(n) tác dụng, lực; môi giới, trung gian
+null
+(n) đại lý, tác nhân
+null
+(adj) xâm lược, hung hăng (US: xông xáo)
+null
+(adv) trước đây
+null
+(adv) trước, về phía trước
+null
+(n) (v) sự nhắm (bắn), mục tiêu, ý định; nhắm, tập trung, hướng vào
+null
+(n) không khí, bầu không khí, không gian
+null
+(n) máy bay, tàu bay, khí cầu
+null
+(n) (v) báo động, báo nguy
+null
+(n) rừợu cồn
+null
+(adj) sống, vẫn còn sống, còn tồn tại
+null
+(n) (adv) tất cả
+null
+(adj) (adv) cô đơn, một mình
+null
+(prep) (adv) sát cạnh, kế bên, dọc theo
+null
+(adv) lớn tiếng, to tiếng
+null
+(adv) đã, rồi, đã… rồi
+null
+(adv) cũng, cũng vậy, cũng thế
+null
+(v) thay đổi, biến đổi, sửa đổi
+null
+(n) (adj) sự lựa chọn; lựa chọn
+null
+(adv) hoàn toàn, hầu như; nói chung
+null
+(adv) luôn luôn
+null
+(v) làm ngạc nhiên, làm sửng sốt
+null
+(n) hoài bão, khát vọng
+null
+(n) xe cứu thương, xe cấp cứu
+null
+(prep) giữa, ở giữa
+null
+(n) (v) số lượng, số nhiều; lên tới (money)
+null
+(v) làm cho vui, thích, làm buồn cười,thích thú
+null
+(n) sự phân tích
+null
+(adj) xưa, cổ
+null
+(conj) và
+null
+(adj) giận, tức giận
+null
+(v) tán thành, đồng ý, chấp thuận
+null
+(+to) (adj) giống với, giống hệt với
+null
+(n) diện tích, bề mặt
+null
+(v) tranh luận
+null
+(n) lý lẽ
+null
+(v) xuất hiện, nảy ra, nảy sinh ra
+null
+(n) (v) cánh tay; vũ trang, trang bị (vũ khí)
+null
+(n) quân đội
+null
+(adv, prep.)xung quanh, vòng quanh
+null
+(v) sắp xếp, sắp đặt, sửa soạn
+null
+(n) sự sắp xếp, sắp đặt, sự sửa soạn
+null
+(v) (n) bắt giữ, sự bắt giữ
+null
+(n) sự đến, sự tới nơi
+null
+(+at, in) (v) đến, tới nơi
+null
+(n) tên, mũi tên
+null
+(n) nghệ thuật, mỹ thuật
+null
+(n) bài báo, đề mục
+null
+(adj) nhân tạo
+null
+(n) nghệ sĩ
+null
+(adj) thuộc nghệ thuật, thuộc mỹ thuật
+null
+(prep,adv, conj.) như
+null
+(adj) ngượng, xấu hổ
+null
+(adv) về một bên, sang một bên
+null
+(adj) ngủ, đang ngủ
+null
+(n) vẻ bề ngoài, diện mạo
+null
+(v) giúp, giúp đỡ; tham dự, có mặt
+null
+(n) sự giúp đỡ
+null
+(n) (adj) người giúp đỡ, người phụ tá; giúp đỡ
+null
+(v) kết giao, liên kết, kết hợp, cho cộng tác
+null
+(v) mang, khoác, có, lấy (cái vẻ, tính chất…)
+null
+(v) đảm bảo, cam đoan
+null
+(n) khí quyển
+null
+(n) nguyên tử
+null
+(v) gắn, dán, trói, buộc
+null
+(n) (v) sự cố gắng, sự thử; cố gắng, thử
+null
+(v) dự, có mặt
+null
+(n) sự chú ý
+null
+(n) thái độ, quan điểm
+null
+(n) người được ủy quyền
+null
+(v) hút; thu hút, hấp dẫn
+null
+(n) sự hút, sức hút
+null
+(adj) hút, thu hút, có duyên, lôi cuốn
+null
+(n) thính, khan giả
+null
+(n) cô, dì
+null
+(adj) tự động
+null
+(n) mùa thu (US: mùa thu là fall)
+null
+(adj) có thể dùng được, có giá trị, hiệu lực
+null
+adj., (n) trung bình, số trung bình, mức trung bình
+null
+(v) tránh, tránh xa
+null
+(adj) đánh thức, làm thức dậy
+null
+(n) (v) phần thưởng; tặng, thưởng
+null
+(adj) biết, nhận thức, nhận thức thấy
+null
+(adv) xa, xa cách, rời xa, đi xa
+null
+(adj) oai nghiêm, dễ sợ
+null
+(adj) vụng về, lung túng
+null
+(n)adj., (adv)., (v) lưng, về phía sau, trở lại
+null
+(n) phía sau; nền
+null
+(adj) về phía sau, lùi lại
+null
+(n) vi khuẩn
+null
+(adj) xấu, tồi
+null
+(n) bao, túi, cặp xách
+null
+(n) hành lý
+null
+(v) nung, nướng bằng lò
+null
+(n) (v) cái cân; làm cho cân bằng, tương xứng
+null
+(n) quả bóng
+null
+(n) băng, đai, nẹp
+null
+(n) (v) dải băng; băng bó
+null
+(n) bờ (sông…) , đê
+null
+(n) quán bán rượu
+null
+(n) sự mặc cả, sự giao kèo mua bán
+null
+(n) đặt chướng ngại vật
+null
+(n) (v) cơ sở, cơ bản, nền móng; đặt tên, đặt cơ sở trên cái gì
+null
+(adj) cơ bản, cơ sở
+null
+(n) nền tảng, cơ sở
+null
+(n) pin, ắc quy
+null
+(n) trận đánh, chiến thuật
+null
+(n) sự tắm
+null
+(n) gian (nhà), nhịp (cầu), chuồng (ngựa); bays: vòng nguyệt quế
+null
+(n) bãi biển
+null
+(v) mang, cầm, vác, đeo, ôm
+null
+(n) râu
+null
+(n) (v) tiếng đập, sự đập; đánh đập, đấm
+null
+(adj) đẹp
+null
+(n) vẻ đẹp, cái đẹp; người đẹp
+null
+(conj) bởi vì, vì
+null
+(v) trở thành, trở nên
+null
+(n) cái giường
+null
+(n) phòng ngủ
+null
+(n) thịt bò
+null
+(n) rượu bia
+null
+prep., conj., (adv) trước, đằng trước
+null
+(v) bắt đầu, khởi đầu
+null
+(n) sự thay mặt
+null
+(v) đối xử, ăn ở, cư xử
+null
+(n) cách đối xử, cách ăn ở,tư cách đạo đức
+null
+(prep) (adv) sau, ở đằng sau
+null
+(v) tin, tin tưởng
+null
+(n) cái chuông, tiếng chuông
+null
+(v) thuộc về, của, thuộc quyền sở hữu
+null
+(prep) (adv) ở dưới, dưới thấp, phía dưới
+null
+(n) dây lưng, thắt lưng
+null
+(v) (n) chỗ rẽ, chỗ uốn; khuỷu tay; cúi xuống, uốn cong
+null
+(prep) (adv) ở dưới, dưới thấp
+null
+(n) (v) lợi, lợi ích; giúp ích, làm lợi cho
+null
+(prep) bên cạnh, so với
+null
+(v) (n) đánh cược, cá cược; sự đánh cược
+null
+(prep) (adv) giữa, ở giữa
+null
+(prep) (adv) ở xa, phía bên kia
+null
+(n) xe đạp
+null
+(v) (n) đặt giá, trả giá; sự đặt giá, sự trả giá
+null
+(adj) to, lớn
+null
+(n) hóa đơn, giấy bạc
+null
+(n) thùng, thùng đựng rượu
+null
+(n) sinh vật học
+null
+(n) chim
+null
+(n) sự ra đời, sự sinh đẻ
+null
+(n) ngày sinh, sinh nhật
+null
+(n) bánh quy
+null
+(n) miếng, mảnh
+null
+(v) (n) cắn, ngoạm; sự cắn, sự ngoạm
+null
+(adj) đắng; đắng cay, chua xót
+null
+(adj) (n) đen; màu đen
+null
+(n) lưỡi (dao, kiếm); lá (cỏ, cây); mái (chèo); cánh (chong chóng)
+null
+(v) (n) khiển trách, mắng trách; sự khiển trách, sự mắng trách
+null
+(adj) (n) trống, để trắng; sự trống rỗng
+null
+(adj) đui, mù
+null
+(n) (v) khối, tảng (đá); làm ngăn cản, ngăn chặn
+null
+(adj) vàng hoe
+null
+(n) máu, huyết; sự tàn sát, chém giết
+null
+(v) (n) nở hoa; sự nở hoa
+null
+(adj) (n) xanh, màu xanh
+null
+(n) (v) tấm ván; lát ván, lót ván
+null
+(n) tàu, thuyền
+null
+(n) thân thể, thân xác
+null
+(v) sôi, luộc
+null
+(n) (v) quả bom; đánh bom, thả bom
+null
+(n) xương
+null
+(n) (v) sách; ghi chép
+null
+(n) khởi động
+null
+(n) bờ, mép, vỉa, lề (đường)
+null
+(n) khoan
+null
+(adj) buồn chán
+null
+(v) sinh, đẻ
+null
+(v) vay, mượn
+null
+(n) ông chủ, thủ trưởng
+null
+(n) chai, lọ
+null
+(n) (adj) phần dưới cùng, thấp nhất; cuối, cuối cùng
+null
+det., pro(n) cả hai
+null
+(v) làm phiền, quấy rầy, làm bực mình
+null
+(+to) (adj) nhất định, chắc chắn
+null
+(n) cái bát
+null
+(n) hộp, thùng
+null
+(n) óc não; đầu óc, trí não
+null
+(n) ngành; nhành cây, nhánh song, ngả đường
+null
+(n) nhãn (hàng hóa)
+null
+(adj) gan dạ, can đảm
+null
+(n) bánh mỳ
+null
+(v) (n) bẻ gãy, đập vỡ; sự gãy, sự vỡ
+null
+(n) bữa điểm tâm, bữa sáng
+null
+(n) hơi thở, hơi
+null
+(v) hít, thở
+null
+(v) (n) nuôi dưỡng, chăm sóc, giáo dục; sinh đẻ; nòi giống
+null
+(n) gạch
+null
+(n) cái cầu
+null
+(adj) ngắn, gọn, vắn tắt
+null
+(adj) tỏa sáng, rực rỡ, chói lọi
+null
+(v) mang, cầm , xách lại
+null
+(adj) rộng
+null
+(v) (n) tung ra khắp nơi,truyền rộng rãi; phát thanh,quảng bá
+null
+(adj) (n) nâu, màu nâu
+null
+(n) (v) bàn chải; chải, quét
+null
+(n) bong bóng, bọt, tăm
+null
+(v) xây dựng
+null
+(n) đạn (súng trường, súng lục)
+null
+(n) búi, chùm, bó, cụm, buồng; bầy, đàn
+null
+(v) đốt, đốt cháy, thắp, nung, thiêu
+null
+(v) chôn cất, mai táng
+null
+(n) bụi cây, bụi rậm
+null
+(n) việc buôn bán, thương mại, kinh doanh
+null
+(adj) bận, bận rộn
+null
+(n) bơ
+null
+(n) cái nút, cái khuy, cúc
+null
+(v) mua
+null
+(n) người mua
+null
+(prep) (adv) bởi, bằng
+null
+(n) tủ có nhiều ngăn đựng đồ
+null
+(n) dây cáp
+null
+(n) bánh ngọt
+null
+(v) tính toán
+null
+(n) sự tính toán
+null
+(v) (n) gọi; tiếng kêu, tiếng gọi
+null
+(adj) (v) (n) yên lặng, làm dịu đi; sự yên lặng, sự êm ả
+null
+(n) chiến dịch, cuộc vận động
+null
+(v) (n) có thể; nhà tù, nhà giam, bình, ca đựng
+null
+(v) hủy bỏ, xóa bỏ
+null
+(n) bệnh ung thư
+null
+(n) người ứng cử, thí sinh, người dự thi
+null
+(n) kẹo
+null
+(n) mũ lưỡi trai, mũ vả
+null
+(n) năng lực, khả năng tiếp thu, năng suất
+null
+(n) (adj) thủ đô, tiền vốn; chủ yếu, chính yếu, cơ bản
+null
+(n) người cầm đầu, người chỉ huy, thủ lĩnh
+null
+(v) (n) bắt giữ, bắt; sự bắt giữ, sự bị bắt
+null
+(n) thẻ, thiếp
+null
+(n) bìa cứng, các tông
+null
+(n) (v) sự chăm sóc, chăm nom; chăm sóc
+null
+(n) nghề nghiệp, sự nghiệp
+null
+(adj) cẩn thận, cẩn trọng, biết giữ gìn
+null
+(adj) sơ suất, cầu thả
+null
+(n) tấm thảm, thảm (cỏ)
+null
+(n) củ cà rốt
+null
+(v) mang, vác, khuân chở
+null
+(n) vỏ, ngăn, túi
+null
+(n) tiền, tiền mặt
+null
+(v) (n) quăng, ném, thả, đánh gục; sự quăng, sự ném (lưới), sự thả (neo)
+null
+(n) thành trì, thành quách
+null
+(v) bắt lấy, nắm lấy, tóm lấy, chộp lấy
+null
+(n) hạng, loại; phạm trù
+null
+(n) (v) nguyên nhân, nguyên do; gây ra, gây nên
+null
+(v) dừng, ngừng, ngớt, thôi, hết, tạnh
+null
+(n) trần nhà
+null
+(v) kỷ niệm, làm lễ kỷ niệm; tán dương, ca tụng
+null
+(n) sự kỷ niệm, lễ kỷ niệm; sự tán dương, sự ca tụng
+null
+(n) ô, ngăn
+null
+(n) đồng xu
+null
+(n) xen ti met
+null
+(n) thế kỷ
+null
+(n) nghi thức, nghi lễ
+null
+(adj),pro(n) chắc chắn
+null
+(n) giấy chứng nhận, bằng, chứng chỉ
+null
+(n) điếu thuốc lá
+null
+(n) rạp chiếu bóng
+null
+(n) đường tròn, hình tròn
+null
+(n) hoàn cảnh, trường hợp, tình huống
+null
+(n) người thành thị
+null
+(n) thành phố
+null
+(adj) (thuộc) công dân
+null
+(v) (n) đòi hỏi, yêu sách; sự đòi hỏi, sự yêu sách, sự thỉnh cầu
+null
+(v) (n) vỗ, vỗ tay; tiếng nổ, tiếng vỗ tay
+null
+(adj) (n) cổ điển, kinh điển
+null
+(adj) (v) sạch, sạch sẽ
+null
+(adj) (v) lau chùi, quét dọn
+null
+(n) thư ký, linh mục, mục sư
+null
+(n) khách hàng
+null
+(n) khí hậu, thời tiết
+null
+(v) leo, trèo
+null
+(n) đồng hồ
+null
+(v) (adj) gần (mqh), thân thiết,chặt chẽ, đóng, khép, kết thúc
+null
+(n) buồng, phòng để đồ, phòng kho
+null
+(n) vải, khăn trải bàn, áo thầy tu
+null
+(n) mây, đám mây
+null
+(n) câu lạc bộ; gậy, dùi cui
+null
+(n) huấn luyện viên
+null
+(n) than đá
+null
+(n) sự lao dốc; bờ biển
+null
+(n) áo choàng
+null
+(n) mật mã, luật, điều lệ
+null
+(n) tiền kim loại
+null
+(adj) (n) lạnh, sự lạnh lẽo, lạnh nhạt
+null
+(adv) lạnh nhạt, hờ hững, vô tâm
+null
+(v) (n) đổ, sụp đổ; sự đổ nát, sự sụp đổ
+null
+(n) bạn đồng nghiệp
+null
+(v) sưu tập, tập trung lại
+null
+(n) sự sưu tập, sự tụ họp
+null
+(n) trường cao đẳng
+null
+(n) Màu sắc
+null
+(n) cột , mục (báo)
+null
+(n) sự kết hợp, sự phối hợp
+null
+(v) kết hợp, phối hợp
+null
+(n) hài kịch
+null
+(n) (v) sự an ủi, khuyên giải, lời động viên, sự an nhàn
+null
+(adj) thoải mái, tiện nghi, đầy đủ
+null
+(adv) dễ chịu, thoải mái, tiện nghi, ấm cúng
+null
+(v) (n) ra lệnh, chỉ huy; lệnh, mệnh lệnh, quyền ra lệnh, quyền chỉ huy
+null
+(n) (v) lời bình luận, lời chú giải; bình luận, phê bình, chú thích, dẫn giải
+null
+(adj) buôn bán, thương mại
+null
+(n) (v) hội đồng, ủy ban, sự ủy nhiệm, sự ủy thác,
+null
+(v) giao, gửi, ủy nhiệm, ủy thác; tống giam, bỏ tù
+null
+(n) sự phạm tội, sự tận tụy, tận tâm
+null
+(n) ủy ban
+null
+(adj) công, công cộng, thông thường, phổ biến
+null
+(v) truyền, truyền đạt; giao thiệp, liên lạc
+null
+(n) sự giao tiếp, liên lạc, sự truyền đạt, truyền tin
+null
+(n) dân chúng, nhân dân
+null
+(n) công ty
+null
+(v) so sánh, đối chiếu
+null
+(n) sự so sánh
+null
+(v) đua tranh, ganh đua, cạnh tranh
+null
+(n) sự cạnh tranh, cuộc thi, cuộc thi đấu
+null
+(adj) cạnh tranh, đua tranh
+null
+(v) phàn nàn, kêu ca
+null
+(n) lời than phiền, than thở; sự khiếu nại, đơn kiện
+null
+(adj) (v) hoàn thành, xong
+null
+(adj) phức tạp, rắc rối
+null
+(v) làm phức tạp, rắc rối
+null
+(n) máy tính
+null
+(v) tập trung
+null
+(n) khái niệm
+null
+(v) (n) liên quan, dính líu tới; sự liên quan, sự dính líu tới
+null
+(n) buổi hòa nhạc
+null
+(v) kết luận, kết thúc, chấm dứt (công việc)
+null
+(n) sự kết thúc, sự kết luận, phần kết luận
+null
+adj., (n) bằng bê tông; bê tông
+null
+(n) điều kiện, tình cảnh, tình thế
+null
+(v) (n) điều khiển, chỉ đạo, chỉ huy; sự điều khiển, chỉ huy
+null
+(n) hội nghị, sự bàn bạc
+null
+(n) lòng tin tưởng, sự tin cậy
+null
+(adj) tin tưởng, tin cậy, tự tin
+null
+(v) giam giữ, hạn chế
+null
+(v) xác nhận, chứng thực
+null
+(n) (v) xung đột, va chạm; sự xung đột, sự va chạm
+null
+(v) đối mặt, đối diện, đối chiếu
+null
+(v) làm lộn xộn, xáo trộn
+null
+(n) sự lộn xộn, sự rối loạn
+null
+(v) kết nối, nối
+null
+(n) sự kết nối, sự giao kết
+null
+(adj) tỉnh táo, có ý thức, biết rõ
+null
+(n) kết quả, hậu quả
+null
+(adj) thận trọng, dè dặt, bảo thủ
+null
+(v) cân nhắc, xem xét; để ý, quan tâm, lưu ý đến
+null
+(adj) lớn lao, to tát, đáng kể
+null
+(adv) đáng kể, lớn lao, nhiều
+null
+(n) sự cân nhắc, sự xem xét, sự để ý, sự quan tâm
+null
+(v) (+of) gồm có
+null
+(adj) kiên trì, bền lòng
+null
+(adv) kiên định
+null
+(v) xây dựng
+null
+(n) sự xây dựng, công trình
+null
+(v) tra cứu, tham khảo, thăm dò, hỏi ý kiến
+null
+(n) người tiêu dùng
+null
+(n) (v) sự liên lạc, sự giao thiệp; tiếp xúc
+null
+(v) bao hàm, chứa đựng, bao gồm
+null
+(n) cái đựng, chứa; công te nơ
+null
+(adj) đương thời, đương đại
+null
+(n) nội dung, sự hài lòng
+null
+(n) cuộc thi, trận đấu, cuộc tranh luận, cuộc chiến đấu,chiến tranh
+null
+(n) văn cảnh, khung cảnh, phạm vi
+null
+(n) lục địa, đại lục
+null
+(v) tiếp tục, làm tiếp
+null
+(adj) liên tục, liên tiếp
+null
+(n) (v) hợp đồng, sự ký hợp đồng; ký kết
+null
+(n) (v) sự tương phản; làm tương phản, trái ngược
+null
+(v) đóng góp, góp phần
+null
+(n) sự đóng góp, sự góp phần
+null
+(n) (v) sự điều khiển, quyền hành, quyền lực, quyền chỉ huy
+null
+(adj) tiện lợi, thuận lợi, thích hợp
+null
+(n) hội nghị, hiệp định, quy ước
+null
+(adj) quy ước
+null
+(v) đổi, biến đổi
+null
+(v) làm cho tin, thuyết phục; làm cho nhận thức thấy
+null
+(v) (n) nấu ăn, người nấu ăn
+null
+(n) bánh quy
+null
+(adj) (v) mát mẻ, điềm tĩnh; làm mát
+null
+(v + with) đối phó, đương đầu
+null
+(n) (v) bản sao, bản chép lại; sự sao chép; sao chép, bắt chước
+null
+(n) nòng cốt, hạt nhân; đáy lòng
+null
+(n) góc (tường, nhà, phố...)
+null
+(adj) (v) đúng, chính xác; sửa, sửa chữa
+null
+(n) (v) giá, chi phí; trả giá, phải trả
+null
+(n) nhà tranh
+null
+(n) bông, chỉ, sợi
+null
+(v) (n) ho, sự ho, tiếng hoa
+null
+(n) hội đồng
+null
+(v) đếm, tính
+null
+(n) quầy hàng, quầy thu tiền, máy đếm
+null
+(n) hạt, tỉnh
+null
+(n) nước, quốc gia, đất nước
+null
+(n) miền quê, miền nông thôn
+null
+(n) đôi, cặp
+null
+(n) tiến trình, quá trình diễn tiến; sân chạy đua
+null
+(n) sân, sân (tennis...), tòa án, quan tòa, phiên tòa
+null
+(n) anh em họ
+null
+(v) (n) bao bọc, che phủ; vỏ, vỏ bọc
+null
+(n) con bò cái
+null
+(n) (v) cừ, xuất sắc; làm nứt, làm vỡ, nứt nẻ, rạn nứt
+null
+(n) nghề, nghề thủ công
+null
+(n) (v) vải thô; sự rơi (máy bay), sự phá sản, sụp đổ; phá tan tành
+null
+(adj) điên, mất trí
+null
+(n) kem
+null
+(v) sáng tạo, tạo nên
+null
+(n) sinh vật, loài vật
+null
+(n) sự tin, lòng tin, danh tiếng; tiền gửi ngân hàng
+null
+(n) tội, tội ác, tội phạm
+null
+(adj) (n) có tội, phạm tội; kẻ phạm tội, tội phạm
+null
+(n) sự khủng hoảng, cơn khủng hoảng
+null
+(adj) giòn
+null
+(n) tiêu chuẩn
+null
+(adj) phê bình, phê phán; khó tính
+null
+(n) sự phê bình, sự phê phán, lời phê bình, lời phê phán
+null
+(v) phê bình, phê phán, chỉ trích
+null
+(n) vụ mùa
+null
+(n) (v) cây Thánh Giá, nỗi thống khổ; sự băng qua; băng qua, vượt qua
+null
+(n) đám đông
+null
+(n) vương miện, vua, ngai vàng; đỉnh cao nhất
+null
+(adj) quyết định, cốt yếu, chủ yếu
+null
+(adj) độc ác, dữ tợn, tàn nhẫn
+null
+(v) ép, vắt, đè nát, đè bẹp
+null
+(v) (n) khóc, kêu la; sự khóc, tiếng khóc, sự kêu la
+null
+(n) văn hóa, sự mở mang, sự giáo dục
+null
+(n) tách, chén
+null
+(n) 1 loại tủ có ngăn
+null
+(v) kiềm chế, nén lại, hạn chế
+null
+(v) (n) chữa trị, điều trị; cách chữa bệnh, cách điều trị; thuốc
+null
+(adj) ham muốn, tò mò, lạ lùng
+null
+(v) (n) quăn, xoắn, uốn quăn, làm xoắn; sự uốn quăn
+null
+(adj) quăn, xoắn
+null
+(n) phong tục, tục lệ, thói quen, tập quán
+null
+(v) (n) cắt, chặt; sự cắt
+null
+(n) (v) chu kỳ, chu trình, vòng; quay vòng theo chu kỳ, đi xe đạp
+null
+(n) sự đi xe đạp
+null
+(n) ghế
+null
+(n) chủ tịch, chủ tọa
+null
+(n) (v) sự thử thách, sự thách thức; thách thức, thử thách
+null
+(n) buồng, phòng, buồng ngủ
+null
+(n) sự may mắn
+null
+(n) kênh (TV, radio), eo biển
+null
+(v) (n) thay đổi, sự thay đổi, sự biến đổi
+null
+(n) chương (sách)
+null
+(n) tính cách, đặc tính, nhân vật
+null
+(n) lòng từ thiện, lòng nhân đức; sự bố thí
+null
+(n) (v) đồ thị, biểu đồ; vẽ đồ thị, lập biểu đồ
+null
+(v) (n) săn bắt; sự săn bắt
+null
+(v) (n) nói chuyện, tán gẫu; chuyện phiếm, chuyện gẫu
+null
+(adj) rẻ
+null
+(v) (n) lừa, lừa đảo; trò lừa đảo, trò gian lận
+null
+(v) (n) kiểm tra; sự kiểm tra
+null
+(n) má
+null
+(adj) vui mừng, phấn khởi, hồ hởi
+null
+(n) pho mát
+null
+(adj) (n) thuộc hóa học; chất hóa học, hóa chất
+null
+(n) nhà hóa học
+null
+(n) hóa học, môn hóa học, ngành hóa học
+null
+(n) séc
+null
+(n) tủ, rương, hòm
+null
+(v) nhai, ngẫm nghĩ
+null
+(n) gà, gà con, thịt gà
+null
+(adj) (n) trọng yếu, chính yếu; thủ lĩnh, lãnh tụ, người đứng đầu, sếp
+null
+(n) đứa bé, đứa trẻ
+null
+(n) cằm
+null
+(n) vỏ bào, mảnh vỡ, chỗ sứt, mẻ
+null
+(n) sự lựa chọn
+null
+(v) chọn, lựa chọn
+null
+(adj) hàng ngày
+null
+(n) (v) mối hại, điều hại, sự thiệt hại; làm hư hại, làm hỏng
+null
+(n) (v) sự nhảy múa, sự khiêu vũ; nhảy múa, khiêu vũ
+null
+(n) diễn viên múa, người nhảy múa
+null
+(n) sự nguy hiểm, mối hiểm nghèo; nguy cơ, mối đe dọa
+null
+(adj) nguy hiểm
+null
+(v) dám, dám đương đầu với; thách
+null
+(adj) (n) tối, tối tăm; bóng tối, ám muội
+null
+(n) số liệu, dữ liệu
+null
+(n) (v) ngày, kỳ, kỳ hạn, thời kỳ
+null
+(n) con gái
+null
+(n) ngày, ban ngày
+null
+(adj) chết, tắt
+null
+(adj) điếc, làm thinh, làm ngơ
+null
+(adj) thân, thân yêu, thân mến; kính thưa, thưa
+null
+(n) sự chết, cái chết
+null
+(n) nợ
+null
+(n) thập kỷ, bộ mười, nhóm mười
+null
+(n) (v) tình trạng suy tàn, suy sụp, tình trạng đổ nát
+null
+(n)tháng mười hai, tháng Chạp
+null
+(v) quyết định, giải quyết, phân xử
+null
+(n) sự quyết định, sự giải quyết, sự phân xử
+null
+(v) tuyên bố, công bố
+null
+(v) trang hoàng, trang trí
+null
+(n) sự trang hoàng, đồ trang hoàng, trang trí
+null
+(adj) để trang hoàng, để trang trí, để làm cảnh
+null
+(v) (n) giảm bớt, làm suy giảm, sự giảm đi, sự giảm sút
+null
+(adj) (adv) sâu, khó lường, bí ẩn
+null
+(v) (n) đánh bại, sự thất bại
+null
+(v) che chở, bảo vệ, bào chữa
+null
+(v) định nghĩa
+null
+(adj) xác định, định rõ, rõ ràng
+null
+(n) sự định nghĩa, lời định nghĩa
+null
+(n) mức độ, trình độ; bằng cấp; độ
+null
+(n) (v) sự chậm trễ, sự trì hoãn, sự cản trở; làm chậm trễ
+null
+(adj) thận trọng, có tính toán, chủ tâm, có suy nghĩ cân nhắc
+null
+(adj) thanh nhã, thanh tú, tế nhị, khó xử
+null
+(n) (v) sự vui thích, sự vui sướng
+null
+(v) cứu khỏi, thoát khỏi, bày tỏ, giãi bày
+null
+(n) sự phân phát, sự phân phối
+null
+(n) (v) sự đòi hỏi, sự yêu cầu; đòi hỏi, yêu cầu
+null
+(v) chứng minh, giải thích; bày tỏ, biểu lộ
+null
+(n) nha sĩ
+null
+(v) từ chối, phản đối, phủ nhận
+null
+(n) cục, sở, ty, ban, khoa; gian hàng, khu bày hàng
+null
+(n) sự rời khỏi, sự đi, sự khởi hành
+null
+(v) phụ thuộc, tùy thuộc; dựa vào, ỷ vào, trông mong vào
+null
+(n) (v) vật gửi, tiền gửi, tiền đặt cọc; gửi, đặt cọc
+null
+(v) làm chán nản, làm phiền muộn; làm suy giảm
+null
+(n) chiều sâu, độ dày
+null
+(v) nhận được từ, lấy được từ;
+null
+(n) sự mô tả, sự tả, sự miêu tả
+null
+(n) sa mạc; công 
+null
+(v) đáng, xứng đáng
+null
+(n) (v) sự thiết kế, kế hoạch, đề cương. phác thảo
+null
+(n) (v) ước muốn; thèm muốn, ao ước
+null
+(n) bàn (học sinh, viết, làm việc)
+null
+(v) phá, phá hoại, phá huỷ, tiêu diệt, triệt phá
+null
+(n) sự phá hoại, sự phá hủy, sự tiêu diệt
+null
+(n) (v) chi tiết
+null
+(n) sự xác định, sự định rõ; sự quyết định
+null
+(v) xác định, định rõ; quyết định
+null
+(adj) đã được xác định, đã được xác định rõ
+null
+(v) phát triển, mở rộng; trình bày, bày tỏ
+null
+(n) sự phát triển, sự trình bày, sự bày tỏ
+null
+(n) kế sách; thiết bị, dụng cụ, máy móc
+null
+(v) hiến dâng, dành hết cho
+null
+(n) biểu đồ
+null
+(n) kim cương
+null
+(n) sổ nhật ký; lịch ghi nhớ
+null
+(n) từ điển
+null
+(v) chết, từ trần, hy sinh
+null
+(n) chế độ ăn uống, chế độ ăn kiêng
+null
+(n) sự khác nhau
+null
+(adj) khác, khác biệt, khác nhau
+null
+(adj) khó, khó khăn, gay go
+null
+(v) đào bới, xới
+null
+(n) bữa trưa, chiều
+null
+(adj) trực tiếp, thẳng, thẳng thắn
+null
+(n) sự điều khiển, sự chỉ huy
+null
+(n) giám đốc, người điều khiển, chỉ huy
+null
+(n) đồ bẩn thỉu, đồ dơ bẩn, vật rác rưởi
+null
+(n) sự bất lợi, sự thiệt hại
+null
+(v) bất đồng, không đồng ý, khác, không giống; không hợp
+null
+(n) sự bất đồng, sự không đồng ý, sự khác nhau
+null
+(v) biến mất, biến đi
+null
+(v) không làm thỏa ước nguyện,
+null
+(n) sự chán ngán, sự thất vọng
+null
+(v) không tán thành, phản đối, chê
+null
+(n) tai họa, thảm họa
+null
+(n) kỷ luật
+null
+(n) sự bớt giá, sự chiết khấu, tiền bớt, chiết khấu
+null
+(v) khám phá, phát hiện ra, nhận ra
+null
+(n) sự khám phá, sự tìm ra, sự phát hiện ra
+null
+(v) thảo luận, tranh luận
+null
+(n) sự thảo luận, sự tranh luận
+null
+(n) căn bệnh, bệnh tật
+null
+(v) (n) làm ghê tởm, làm kinh tởm, làm phẫn nộ
+null
+(adj) bất lương, không thành thật
+null
+(n) đĩa, đĩa hát
+null
+(v) (n) sự không ưa, không thích, sự ghét
+null
+(v) giải tán (quân đội, đám đông); sa thải (người làm)
+null
+(v) (n) bày tỏ, phô trương, trưng bày; sự bày ra, phô bày,trưng bày
+null
+(v) tan rã, phân hủy, giải tán
+null
+(n) khoảng cách, tầm xa
+null
+(v) phân biệt, nhận ra, nghe ra
+null
+(v) làm mất yên tĩnh, làm náo động, quấy rầy
+null
+(v) chia, chia ra, phân ra
+null
+(n) sự chia, sự phân chia, sự phân loại
+null
+(n) (v) sự ly dị
+null
+(n) bác sĩ y khoa, tiến sĩ
+null
+(n) văn kiện, tài liệu, tư liệu
+null
+(n) đô la Mỹ
+null
+(adj) vật nuôi trong nhà, (thuộc) nội trợ, quốc nội
+null
+(v) chiếm ưu thế, có ảnh hưởng, chi phối; kiềm chế
+null
+(n) cửa, cửa ra vào
+null
+(n) chấm nhỏ, điểm; của hồi môn
+null
+(adj) (adv) (n) (v) đôi, hai, kép; cái gấp đôi, lượng gấp đôi; làm gấp đôi
+null
+(n) (v) sự nghi ngờ, sự ngờ vực; nghi ngờ, ngờ vực
+null
+(adv) (prep) xuống
+null
+(adv) (adj) (n) ở dưới nhà, ở tầng dưới
+null
+(adj) xuống, đi xuống
+null
+(adv) xuống, đi xuống
+null
+(n)det. tá (12)
+null
+(n) (adj) (v) bản phác thảo, sơ đồ thiết kế; phác thảo, thiết kế
+null
+(v) lôi kéo, kéo lê
+null
+(n) kịch, tuồng
+null
+(adj) như kịch, như đóng kịch, thích hợp với sân khấu
+null
+(v) vẽ, kéo
+null
+(n) người vẽ, người kéo
+null
+(n) (v) giấc mơ, mơ
+null
+(n) (v) váy, quần áo, mặc (quần áo), ăn mặc
+null
+(n) (v) đồ uống; uống
+null
+(v) (n) lái , đua xe; cuộc đua xe (điều khiển)
+null
+(n) người lái xe
+null
+(v) (n) chảy nhỏ giọt, rơi, rớt; giọt (nước, máu...)
+null
+(n) thuốc, dược phẩm; ma túy
+null
+(n) hiệu thuốc, cửa hàng dược phẩm
+null
+(n) cái trống, tiếng trống
+null
+(adj) say rượu
+null
+(adj) (v) khô, cạn; làm khô, sấy khô
+null
+(adj) đến kỳ hạn (trả nợ); xứng đáng, thích đáng
+null
+(adj) chậm hiểu, ngu đần
+null
+(v) (n) đổ rác; đống rác, nơi đổ rác
+null
+(prep) trong lúc, trong thời gian
+null
+(n) (v) bụi, rác; rắc (bụi, phấn), quét bụi, phủi bụi
+null
+(n) sự tôn kính, kính trọng; bồn phận, trách nhiệm
+null
+pro(n) mỗi
+null
+pro(n) nhau, lẫn nhau
+null
+(n) tai
+null
+(adj) (adv) sớm
+null
+(v) kiếm (tiền), giành (phần thưởng)
+null
+(n) đất, trái đất
+null
+(n) (v) sự thanh thản, sự thoải mái; làm thanh thản, làm yên tâm
+null
+(n) (adj) (adv) hướng đông, phía đông, (thuộc) đông, ở phía đông
+null
+(adj) đông
+null
+(adj) dễ dàng, dễ tính, ung dung
+null
+(adv) dễ dàng
+null
+(v) ăn
+null
+(adj) (thuộc) Kinh tế
+null
+(n) sự tiết kiệm, sự quản lý kinh tế
+null
+(n) lưỡi, cạnh sắc (dao)
+null
+(n) nhà xuất bản, sự xuất bản
+null
+(n) người thu thập và xuất bản, chủ bút
+null
+(v) giáo dục, cho ăn học; rèn luyện
+null
+(adj) được giáo dục, được đào tạo
+null
+(n) sự giáo dục, sự rèn luyện (kỹ năng)
+null
+(n) hiệu ứng, hiệu quả, kết quả
+null
+(adj) có kết quả, có hiệu lực
+null
+(adv) có kết quả, có hiệu lực
+null
+(adj) có hiệu lực, có hiệu quả
+null
+(adv) có hiệu quả, hiệu nghiệm
+null
+(n) sự cố gắng, sự nỗ lực
+null
+(n) trứng
+null
+(adv) mỗi, một; cũng phải thế
+null
+(n) khuỷu tay
+null
+(adj) có tuổi, cao tuổi
+null
+(v) bầu, quyết định
+null
+(n) sự bầu cử, cuộc tuyển cử
+null
+(adj) (thuộc) điện, có điện, phát điện
+null
+(adj) (thuộc) điện
+null
+(n) điện, điện lực; điện lực học
+null
+(adj) (thuộc) điện tử
+null
+(adj) thanh lịch, tao nhã
+null
+(n) yếu tố, nguyên tố
+null
+(n) máy nâng, thang máy
+null
+khác, nữa; nếu không
+null
+(adv) ở một nơi nào khác
+null
+(v) lúng túng, làm ngượng nghịu; làm rắc rối, gây khó khăn
+null
+(adj) làm lúng túng, ngăn trở
+null
+(adj) lúng túng, bối rối, ngượng; mang nợ
+null
+(n) sự lúng túng, sự bối rối
+null
+(v) nổi lên, hiện ra; nổi bật lên
+null
+(n) tình trạng khẩn cấp
+null
+(n) sự xúc động, sự cảm động, mối xúc cảm
+null
+(adj) cảm động, xúc động, xúc cảm; dễ cảm động, dễ xúc cảm
+null
+(adv) xúc động
+null
+(n) sự nhấn mạnh, tầm quan trọng
+null
+(v) nhấn mạnh, làm nổi bật
+null
+(n) đế chế, đế quốc
+null
+(v) dùng, thuê ai làm gì
+null
+(adj) thất nghiệp; không dùng, không sử dụng được
+null
+(n) người lao động, người làm công
+null
+(n) chủ, người sử dụng lao động
+null
+(n) sự thuê mướn
+null
+(n) sự thuê mướn
+null
+(n) sự thất nghiệp, nạn thất nghiệp
+null
+(adj) (v) trống, rỗng; đổ, dốc; uống, làm cạn
+null
+(v) làm cho có thể, có khả năng; cho phép ai làm gì
+null
+(v) (n) chạm chán, bắt gặp; sự chạm trán, sự bắt gặp
+null
+(v) động viên, ủng hộ, giúp đỡ, làm can đảm, mạnh dạn
+null
+(n) niềm cổ vũ, động viên, khuyến khích, sự làm can đảm
+null
+(n) (v) giới hạn, sự kết thúc; kết thúc, chấm dứt
+null
+cuối cùng, về sau
+null
+(n) sự kết thúc, sự chấm dứt; phần cuối, kết cục
+null
+(n) kẻ thù, quân địch
+null
+(n) năng lượng, nghị lực, sinh lực
+null
+(v) hứa hẹn, cam kết, đính ước
+null
+(adj) đã đính ước, đã hứa hôn
+null
+(n) máy, động cơ
+null
+(n) kỹ sư
+null
+(n) nghề kỹ sư, công việc của kỹ sư
+null
+(v) thưởng thức, thích thú cái gì, được hưởng, có được
+null
+(adj) thú vị, thích thú
+null
+(n) sự thích thú, sự có được, được hưởng
+null
+(adj) to lớn, khổng lồ
+null
+pro (n) (adv) đủ
+null
+(n) sự điều tra, sự thẩm vấn
+null
+(v) bảo đảm, chắc chắn
+null
+(v) đi vào, gia nhập
+null
+(v) giải trí, tiếp đón, chiêu đãi
+null
+(adj) giải trí
+null
+(n) người quản trò, người tiếp đãi, chiêu đãi
+null
+(n) sự giải trí, sự tiếp đãi, chiêu đãi
+null
+(n) sự hăng hái, sự nhiệt tình
+null
+(adj) hăng hái, say mê, nhiệt tình
+null
+(adj) toàn thể, toàn bộ
+null
+(adv) toàn vẹn, trọn vẹn, toàn bộ
+null
+(v) cho tiêu đề, cho tên (sách); cho quyền làm gì
+null
+(n) sự đi vào, sự nhậm chức
+null
+(n) sự ghi vào sổ sách, sự đi vào, sự tiếp nhận (pháp lý)
+null
+(n) phong bì
+null
+(n) môi trường, hoàn cảnh xung quanh
+null
+(adj) thuộc về môi trường
+null
+(n) (v) ngang, bằng; người ngang hàng, ngang tài,sức
+null
+(adv) bằng nhau, ngang bằng
+null
+(n) trang, thiết bị
+null
+(adj) (n) tương đương; từ, vật tương đương
+null
+(n) lỗi, sự sai sót, sai lầm
+null
+(v) (n) trốn thoát, thoát khỏi; sự trốn thoát, lỗi thoát
+null
+(adv) đặc biệt là, nhất là
+null
+(n) bài tiểu luận
+null
+(adj) (n) bản chất, thực chất, cốt yếu; yếu tố cần thiết
+null
+(adv) về bản chất, về cơ bản
+null
+(v) lập, thành lập
+null
+(n) tài sản, di sản, bất động sản
+null
+(n) (v) sự ước lượng, đánh giá; ước lượng, đánh giá
+null
+(adv) (adj) ngay cả, ngay, lại còn; bằng phẳng, điềm đạm,ngang bằng
+null
+(n) buổi chiều, tối
+null
+(n) sự việc, sự kiện
+null
+(adv) cuối cùng
+null
+(adv) từng, từ trước tới giờ
+null
+(det) mỗi, mọi
+null
+(n) điều hiển nhiên, điều rõ ràng
+null
+(adj) (n) xấu, ác; điều xấu, điều ác, điều tai hại
+null
+(adj) chính xác, đúng
+null
+(adv) chính xác, đúng đắn
+null
+(v) cường điệu, phóng đại
+null
+(adj) cường điệu, phòng đại
+null
+(n) viết tắt của Examination
+null
+(n) sự thi cử, kỳ thi
+null
+(v) thẩm tra, khám xét, hỏi han (thí sinh)
+null
+(n) thí dụ, ví dụ
+null
+(adj) xuất sắc, xuất chúng
+null
+(prep) (conj) trừ ra, không kể; trừ phi
+null
+(n) sự trừ ra, sự loại ra
+null
+(v) (n) trao đổi; sự trao đổi
+null
+trong việc trao đổi về
+null
+(v) kích thích, kích động
+null
+(adj) hứng thú, thú vị
+null
+(adj) bị kích thích, bị kích động
+null
+(n) sự kích thích, sự kích động
+null
+(v) ngăn chạn, loại trừ
+null
+(prep) ngoài ra, trừ ra
+null
+(n) (v) lời xin lỗi, bào chữa; xin lỗi, tha thứ, tha lỗi
+null
+(n) (adj) sự thi hành, chấp hành; (thuộc) sự thi hành,chấp hành
+null
+(n) (v) bài tập, sự thi hành, sự thực hiện; làm, thi hành, thực hiện
+null
+(v) (n) trưng bày, triển lãm; vật trưng bày, vật triển lãm
+null
+(n) cuộc triển lãm, trưng bày
+null
+(v) tồn tại, sống
+null
+(n) sự tồn tại, sự sống
+null
+(n) lỗi ra, sự đi ra, thoát ra
+null
+(v) mở rộng, phát triển, nở, giãn ra
+null
+(v) chờ đợi, mong ngóng; liệu trước
+null
+(adj) được chờ đợi, được hy vọng
+null
+(adj) bất ngờ, đột ngột, gây ngạc nhiên
+null
+(adv) bất ngờ, đột ngột, gây ngạc nhiên
+null
+(n) sự mong chờ, sự chờ đợi
+null
+(n) chi phí
+null
+(adj) đắt
+null
+(n) (v) kinh nghiệm; trải qua, nếm mùi
+null
+(adj) có kinh nghiệm, từng trải, giàu kinh nghiệm
+null
+(n) (v) cuộc thí nghiệm, thí nghiệm
+null
+(n) (adj) chuyên gia; chuyên môn, thành thạo
+null
+(v) giải nghĩa, giải thích
+null
+(n) sự giải nghĩa, giải thích
+null
+(v) đập tan (hy vọng...), làm nổ, nổ
+null
+(v) thăm dò, thám hiểm
+null
+(n) sự nổ, sự phát triển ồ ạt
+null
+(v) (n) xuất khẩu; hàng xuất khẩu, sự xuất khẩu
+null
+(v) trưng bày, phơi bày
+null
+(v) (adj) diễn tả, biểu lộ, bày tỏ; nhanh, tốc hành
+null
+(n) sự diễn tả, sự bày tỏ, biểu lộ, sự diễn đạt
+null
+(v) giơ, duỗi ra (tay, chân); kéo dài (thời gian),dành cho, gửi lời
+null
+(n) sự giơ, duỗi; sự kéo dài, sự dành cho, gửi lời
+null
+(adj) rộng rãi, bao quát
+null
+(n) (v) quy mô, phạm vi
+null
+(adj) (n) (adv) thêm, phụ, ngoại; thứ thêm, phụ
+null
+(adj) đặc biệt, lạ thường, khác thường
+null
+(adj) (n) vô cùng, khắc nghiệt, quá khích, cực đoan; sự quá khích
+null
+(adv) vô cùng, cực độ
+null
+(n) (v) mặt, thể diện; đương đầu, đối phó, đối mặt
+null
+(n) điều kiện dễ dàng, sự dễ dàng, thuận lợi
+null
+(n) việc, sự việc, sự kiện
+null
+(n) nhân tố
+null
+(n) nhà máy, xí nghiệp, xưởng
+null
+(v) sai, thất bại
+null
+(n) sự thất bại, người thất bại
+null
+(adj) nhút nhát, yếu ớt
+null
+(adv) nhút nhát, yếu ớt
+null
+(adj) hợp lý, công bằng; thuận lợi
+null
+(adv) hợp lý, công bằng
+null
+(adj) gian lận, không công bằng; bất lợi
+null
+(adv) gian lận, không công bằng; bất lợi
+null
+(n) sự tin tưởng, tin cậy; niềm tin, vật đảm bảo
+null
+(adj) trung thành, chung thủy, trung thực
+null
+(adv) trung thành, chung thủy, trung thực
+null
+bạn chân thành
+null
+(v) (n) rơi, ngã, sự rơi, ngã
+null
+ngã lộn nhào, bị đổ
+null
+(adj) sai, nhầm, giả dối
+null
+(n) tên tuổi, danh tiếng
+null
+(adj) thân thiết, quen thuộc
+null
+(n) (adj) gia đình, thuộc gia đình
+null
+(adj) nổi tiếng
+null
+(v) (adj) tưởng tượng, cho, nghĩ rằng; tưởng tượng
+null
+(adv) (adj) xa
+null
+(adj) xa hơn nữa; thêm nữa
+null
+(n) trang trại
+null
+(n) công việc trồng trọt, đồng áng
+null
+(n) nông dân, người chủ trại
+null
+(n) mốt, thời trang
+null
+(adj) đúng mốt, hợp thời trang
+null
+(adj) (adv) nhanh
+null
+(v) buộc, trói
+null
+(adj) (n) béo, béo bở; mỡ, chất béo
+null
+(n) vòi (ở thùng rượu....)
+null
+(n) sự thiết sót, sai sót
+null
+(n) thiện ý, sự quý mến; sự đồng ý; sự chiếu cố
+null
+ủng hộ cái gì
+null
+(adj) (n) được ưa thích; người (vật) được ưa thích
+null
+(n) (v) sự sợ hãi, e sợ; sợ, lo ngại
+null
+(n) lông chim
+null
+(n) (v) nét đặt biệt, điểm đặc trưng; mô tả nét đặc biệt,đặc trưng của...
+null
+tháng 2
+null
+(adj) liên bang
+null
+(n) tiền thù lao, học phí
+null
+(v) cho ăn, nuôi
+null
+(v) cảm thấy
+null
+(n) sự cảm thấy, cảm giác
+null
+(n) anh chàng (đang yêu), đồng chí
+null
+(adj) (n) thuộc giống cái; giống cái
+null
+(n) hàng rào
+null
+(n) lễ hội, đại hội liên hoan
+null
+(v) tìm về, đem về; làm bực mình; làm say mê, quyến rũ
+null
+(n) cơn sốt, bệnh sốt
+null
+(adj) pro(n) ít,vài; một ít, một vài
+null
+một ít, một vài
+null
+(n) cánh đồng, bãi chiến trường
+null
+(v) (n) đấu tranh, chiến đấu; sự đấu tranh, cuộc chiến đấu
+null
+(n) sự chiến đấu, sự đấu tranh
+null
+(n) (v) hình dáng, nhân vật; hình dung, miêu tả
+null
+(n) hồ sơ, tài liệu
+null
+(v) làm đấy, lấp kín
+null
+(n) (v) phim, được dựng thành phim
+null
+(adj) (n) cuối cùng, cuộc đấu chung kết
+null
+(adv) cuối cùng, sau cùng
+null
+(n) (v) tài chính; tài trợ, cấp vốn
+null
+(adj) thuộc (tài chính)
+null
+(v) tìm, tìm thấy
+null
+khám phá, tìm ra
+null
+(adj) tốt, giỏi
+null
+(adv) đẹp đẽ, tế nhị, cao thượng
+null
+(n) ngón tay
+null
+(v) (n) kết thúc, hoàn thành; sự kết thúc, phần cuối
+null
+(adj) hoàn tất, hoàn thành
+null
+(n) (v) lửa; đốt cháy
+null
+đốt cháy cái gì
+null
+(n) (adj) (adv) hãng, công ty; chắc, kiên quyết, vững vàng
+null
+(adv) vững chắc, kiên quyết
+null
+(adv) (n) thứ nhất, đầu tiên, trước hết; người, vật đầu tiên, thứ nhất
+null
+trực tiếp
+null
+(n) (v) cá, món cá; câu cá, bắt cá
+null
+(n) sự câu cá, sự đánh cá
+null
+(v) (adj) hợp, vừa; thích hợp, xứng đáng
+null
+(v) đóng, gắn, lắp; sửa chữa, sửa sang
+null
+(adj) đứng yên, bất động
+null
+(n) quốc kỳ
+null
+(n) ngọn lửa
+null
+(v) (n) loé sáng, vụt sáng; ánh sáng lóe lên, đèn nháy
+null
+(adj) (n) bằng phẳng, bẹt, nhẵn; dãy phòng, căn phòng, mặt phẳng
+null
+(n) (v) vị, mùi; cho gia vị, làm tăng thêm mùi vị
+null
+(n) thịt
+null
+(n) sự bỏ chạy, rút chạy; sự bay, chuyến bay
+null
+(v) nổi, trôi, lơ lửng
+null
+(n) (v) lụt, lũ lụt; tràn đầy, tràn ngập
+null
+(n) sàn, tầng (nhà)
+null
+(n) bột, bột mỳ
+null
+(n) (v) sự chảy; chảy
+null
+(n) bệnh cúm
+null
+(v) (n) bay; sự bay, quãng đường bay
+null
+(adj) (n) biết bay; sự bay, chuyến bay
+null
+(v) (n) tập trung; trung tâm, trọng tâm
+null
+(v) (n) gấp, vén, xắn; nếp gấp
+null
+(adj) gấp lại được
+null
+(v) đi theo sau, theo, tiếp theo
+null
+(adj) (n)prep.tiếp theo, theo sau, sau đây; sau, tiếp theo
+null
+(n) chân, bàn chân
+null
+(n) bóng đá
+null
+(prep) cho, dành cho...
+null
+(n) (v) sức mạnh; ép buộc, cưỡng ép
+null
+(n) (v) sự dự đoán, dự báo; dự đoán, dự báo
+null
+(adj) (thuộc) nước ngoài, từ nước ngoài, ở nước ngoài
+null
+(n) rừng
+null
+(adv) mãi mãi
+null
+(v) quên
+null
+(v) tha, tha thứ
+null
+(n) cái nĩa
+null
+(n) (v) hình thể, hình dạng, hình thức; làm thành, được tạo thành
+null
+(adj) trang trọng,theo nghi thức
+null
+(v) nghi thức hóa,trang trọng hóa
+null
+(adj) trước, cũ, xưa, nguyên
+null
+(adv) trước đây, thuở xưa
+null
+(n) công thức, thể thức, cách thức
+null
+(n) sự giàu có, sự thịnh vượng
+null
+(adj) (adv) về tương lai, sau này ở phía trước,tiến về phía trước
+null
+(n) sự thành lập, sự sáng lập; tổ chức
+null
+(n) (v) cấu trúc, hệ thống; dàn xếp, bố trí
+null
+(adj) (v) (adv) miễn phí, tự do, giải phóng, trả tự do
+null
+(adv) tự do, thoải mái
+null
+(n) sự tự do; nền tự do
+null
+(v) đóng băng, đông lạnh
+null
+(adj) lạnh giá
+null
+(adj) thường xuyên
+null
+(adv) thường xuyên
+null
+(adj) tươi, tươi tắn
+null
+(adv) tươi mát, khỏe khoắn
+null
+(n) tủ lạnh
+null
+kết bạn với
+null
+(adj) thân thiện, thân mật
+null
+(adj) không thân thiện, không có thiện cảm
+null
+(n) tình bạn, tình hữu nghị
+null
+(v) làm sợ, làm hoảng sợ
+null
+(adj) kinh khủng, khủng khiếp
+null
+(adj) hoảng sợ, khiếp sợ
+null
+(n) (adj) mặt; đằng trước, về phía trước
+null
+ở phía trước
+null
+(n) (v) sự đông lạnh, sự giá lạnh; làm đông, làm đóng băng
+null
+(n) quả, trái cây
+null
+(v) (n) rán, chiên; thịt rán
+null
+(n) chất đốt, nhiên liệu
+null
+(adj) đầy, đầy đủ
+null
+(adv) đầy đủ, hoàn toàn
+null
+(n) (adj) sự vui đùa, sự vui thích; hài hước
+null
+đùa cợt, chế giễu, chế nhạo
+null
+(n) (v) chức năng; họat động, chạy (máy)
+null
+(n) (v) kho, quỹ; tài trợ, tiền bạc, để tiền vào công quỹ
+null
+(adj) cơ bản, cơ sở, chủ yếu
+null
+(n) lễ tang, đám tang
+null
+(adj) buồn cười, khôi hài
+null
+(n) bộ da lông thú
+null
+(n) đồ đạc (trong nhà)
+null
+(adj) xa hơn nữa, thêm nữa, bên kia
+null
+(adj) (adv) xa hơn hết, xa nhất
+null
+(n) (adj) tương lai
+null
+(v) (n) lợi, lợi ích; giành được, kiếm được, đạt tới
+null
+(n) Galông 1gl = 4, 54 lít ở Anh, 3, 78 lít ở Mỹ
+null
+(v) (n) đánh bạc; cuộc đánh bạc
+null
+(n) trò cờ bạc
+null
+(n) đèo, lỗ hổng, kẽ hở; chỗ trống
+null
+(n) nhà để ô tô
+null
+(n) lòng, ruột (thú)
+null
+(n) vườn
+null
+(n) khí, hơi đốt
+null
+(n) dầu lửa, dầu hỏa, xăng
+null
+(n) cổng
+null
+(v) tập hợp; hái, lượm, thu thập
+null
+(n) cơ cấu, thiết bị, dụng cụ
+null
+(adj) chung, chung chung; tổng
+null
+(adv) nói chung, đại thể
+null
+nói chung, đại khái
+null
+(v) sinh, đẻ ra
+null
+(n) sự sinh ra, sự phát sinh ra; thế hệ, đời
+null
+(adj) rộng lượng, khoan hồng, hào phóng
+null
+(adv) rộng lượng, hào phóng
+null
+(adj) hiền lành, dịu dàng, nhẹ nhàng
+null
+(adv) nhẹ nhàng, êm ái, dịu dàng
+null
+(n) người quý phái, người thượng lưu
+null
+(adj) thành thật, chân thật; xác thực
+null
+(adv) thành thật, chân thật
+null
+(n) địa lý, khoa địa lý
+null
+(v) được, có được
+null
+leo, trèo lên (xe buýt, xe lửa,..)
+null
+ra khỏi, thoát khỏi, xuống ( xe buýt,xe lửa,...)
+null
+(n) (adj) người khổng lồ, người phi thường; khổng lồ, phi thường
+null
+(n) quà tặng
+null
+(v) cho, biếu, tặng
+null
+cho, phát
+null
+chia, phân phối
+null
+bỏ, từ bỏ
+null
+(adj) vui lòng, sung sướng
+null
+(n) kính, thủy tinh, cái cốc, ly
+null
+(n) kính đeo mắt
+null
+(adj) v toàn cầu, toàn thể, toàn bộ
+null
+(n) bao tay, găng tay
+null
+(n) (v) keo, hồ; gắn lại, dán bằng keo, hồ
+null
+(n) đậu xanh
+null
+đi xuống
+null
+đi lên
+null
+sắp sửa, có ý định
+null
+(n) khung thành, bàn thắng, đích, mục đích
+null
+(n) (adj) vàng; bằng vàng
+null
+(adj) (n) tốt, hay, tuyệt; điều tốt, điều thiện
+null
+tiến bộ ở
+null
+có lợi cho
+null
+(n) của cải, tài sản, hàng hóa
+null
+(v) cai trị, thống trị, cầm quyền
+null
+(n) chính phủ, nội các; sự cai trị
+null
+(n) thủ lĩnh, chủ; kẻ thống trị
+null
+(v) túm lấy, vồ, chộp lấy
+null
+(n) (v) điểm, điểm số; phân loại, xếp loại
+null
+(adj) dần dần, từng bước một
+null
+(adv) dần dần, từ từ
+null
+(n) thóc lúa, hạt, hột; tính chất, bản chất
+null
+(n) ngữ pháp, văn phạm
+null
+(adj) rộng lớn, vĩ đại
+null
+(n) cháu (của ông bà)
+null
+(n) cháu gái
+null
+(v) (n) cho, ban, cấp; sự cho, sự ban, sự cấp
+null
+(n) cháu trai
+null
+(n) cỏ; bãi cỏ, đồng cỏ
+null
+(adj) biết ơn, dễ chịu, khoan khoái
+null
+(n) (adj) mộ, dấu huyền; trang nghiêm, nghiêm trọng
+null
+(adj) xám, hoa râm (tóc)
+null
+(adj) xám, hoa râm (tóc),xám xịt
+null
+(adj) to, lớn, vĩ đại
+null
+(adv) rất, lắm; cao thượng, cao cả
+null
+(n) cửa hàng tạp phẩm
+null
+(n) mặt đất, đất, bãi đất
+null
+(n) nhóm
+null
+(v) mọc, mọc lên
+null
+lớn lên, trưởng thành
+null
+(n) sự lớn lên, sự phát triển
+null
+(n) (v) sự bảo hành, bảo lãnh, người bảo lãnh; cam đoan, đảm bảo
+null
+(n) (v) cái chắn, người bảo vệ; bảo vệ, gác, canh giữ
+null
+(v) (n) đoán, phỏng đoán; sự đoán, sự ước chừng
+null
+(n) khách, khách mời
+null
+(n) (v) điều chỉ dẫn, người hướng dẫn; dẫn đường, chỉ đường
+null
+(adj) có tội, phạm tội, tội lỗi
+null
+(n) súng
+null
+(n) bù nhìn, anh chàng, gã
+null
+(n) thói quen, tập quán
+null
+(n) thợ làm tóc
+null
+pro(n) (adv) một nửa, phần chia đôi, nửa giờ; nửa
+null
+(n) đại sảnh, tòa (thị chính), hội trường
+null
+(n) búa
+null
+(n) (v) tay, bàn tay; trao tay, truyền cho
+null
+(v) (n) cầm, sờ mó; tay cầm, móc quai
+null
+(v) treo, mắc
+null
+(v) xảy ra, xảy đến
+null
+(n) sự sung sướng, hạnh phúc
+null
+(n) nỗi buồn, sự bất hạnh
+null
+(adv) sung sướng, hạnh phúc
+null
+(adj) buồn rầu, khốn khổ
+null
+(adj) (adv) cứng, rắn, hà khắc; hết sức cố gắng, tích cực
+null
+(adv) khắc nghiệt, nghiêm khắc, tàn tệ, khó khăn
+null
+(n) (v) thiệt hại, tổn hao; làm hại, gây thiệt hại
+null
+(adj) gây tai hại, có hại
+null
+(adj) không có hại
+null
+(v) (n) ghét; lòng căm ghét, thù hận
+null
+(n) lòng căm thì, sự căm ghét
+null
+(n) (v) cái đầu (người, thú); chỉ huy, lãnh đại, dẫn đầu
+null
+(n) chứng nhức đầu
+null
+(v) chữa khỏi, làm lành
+null
+(n) sức khỏe, thể chất, sự lành mạnh
+null
+(adj) khỏe mạnh, lành mạnh
+null
+(v) nghe
+null
+(n) sự nghe, thính giác
+null
+(n) tim, trái tim
+null
+(n) (v) hơi nóng, sức nóng
+null
+(n) sự đốt nóng, sự làm nóng
+null
+(n) thiên đường
+null
+(adj) nặng, nặng nề
+null
+(adv) nặng, nặng nề
+null
+(n) gót chân
+null
+(n) chiều cao, độ cao; đỉnh, điểm cao
+null
+(adj) có ích; giúp đỡ
+null
+(adv) sau đây, kể từ đây; do đó, vì thế
+null
+(v) ngập ngừng, do dự
+null
+(v) trốn, ẩn nấp; che giấu
+null
+(adj) (adv) cao, ở mức độ cao
+null
+(adv) tốt, cao; hết sức, ở mức độ cao
+null
+(v) (n) làm nổi bật, nêu bật; chỗ nổi bật nhất, đẹp, sáng nhất
+null
+(n) đường quốc lộ
+null
+(n) đồi
+null
+(n) hông
+null
+(v) (n) thuê, cho thuê (nhà...); sự thuê, sự cho thuê
+null
+(n) lịch sử, sử học
+null
+(adj) lịch sử, thuộc lịch sử
+null
+(v) (n) đánh, đấm, ném trúng; đòn, cú đấm
+null
+(n) sở thích riêng
+null
+(v) (n) cầm, nắm, giữ; sự cầm, sự nắm giữ
+null
+(n) lỗ, lỗ trống; hang
+null
+(adj) rỗng, trống rỗng
+null
+(adj) linh thiêng; sùng đạo
+null
+(adj) lương thiện, trung thực, chân thật
+null
+(adj) lương thiện, trung thực, chân thật
+null
+(n) danh dự, thanh danh, lòng kính trọng
+null
+để tỏ lòng tôn kính, trân trọng đối với
+null
+(n) cái móc; bản lề; lưỡi câu
+null
+(adj) (thuộc) chân trời, ở chân trời; ngang, nằm ngang (trục hoành)
+null
+(n) sừng (trâu, bò...)
+null
+(n) điều kinh khủng, sự ghê rợn
+null
+(n) ngựa
+null
+(n) bệnh viện, nhà thương
+null
+(n) (v) chủ nhà, chủ tiệc; dẫn (c.trình), đăng cai tổ chức (hội nghị)
+null
+(n) nơi ăn chốn ở
+null
+(n) (adj) hộ, gia đình; (thuộc) gia đình
+null
+(adj) to lớn, khổng lồ
+null
+(adj) (n) (thuộc) con người, loài người
+null
+(adj) hài hước, hóm hỉnh
+null
+(n) sự hài hước, sự hóm hỉnh
+null
+(adj) đói
+null
+(v) săn, đi săn
+null
+(n) sự đi săn
+null
+(v) (n) sự vội vàng, sự gấp rút
+null
+vội vàng, hối hả, gấp rút
+null
+(v) làm bị thương, gây thiệt hại
+null
+(n) người chồng
+null
+(n) băng, nước đá
+null
+(n) ý tưởng, quan niệm
+null
+(adj) (n) (thuộc) quan niệm, tư tưởng; lý tưởng
+null
+(adv) lý tưởng, đúng như lý tưởng
+null
+(v) nhận biết, nhận ra, nhận dạng
+null
+(n) cá tính, nét nhận dạng; tính đồng nhất, giống hệt
+null
+(v) phớt lờ, tỏ ra không biết đến
+null
+(adj) ốm
+null
+(adj) trái luật, bất hợp pháp
+null
+(adv) trái luật, bất hợp pháp
+null
+(n) sự đau yếu, ốm, bệnh tật
+null
+(v) minh họa, làm rõ ý
+null
+(n) ảnh, hình ảnh
+null
+(adj) tưởng tượng, ảo
+null
+(n) trí tưởng tượng, sự tưởng tượng
+null
+(v) tưởng tượng, hình dung; tưởng rằng, cho rằng
+null
+(adj) lập tức, tức thì
+null
+(adv) ngay lập tức
+null
+(adj) trái đạo đức, luân lý; xấu xa
+null
+(n) sự và chạm, sự tác động, ảnh hưởng
+null
+(adj) thiếu kiên nhẫn, nóng vội
+null
+(adv) nóng lòng, sốt ruột
+null
+(n) sự lôi kéo, sự liên can, điều gợi ý
+null
+(v) ngụ ý, bao hàm
+null
+(n) (v) sự nhập, sự nhập khẩu; nhập, nhập khẩu
+null
+(n) sự quan trọng, tầm quan trọng
+null
+(adj) quan trọng, hệ trọng
+null
+(adv) quan trọng, trọng yếu
+null
+(adj) không quan trọng, không trọng đại
+null
+(v) đánh (thuế...), bắt gánh vác; đánh tráo, lợi dụng
+null
+(adj) không thể làm được, không thể xảy ra
+null
+(v) ghi, khắc, in sâu vào; gây ấn tượng, làm cảm động
+null
+(adj) được ghi, khắc, in sâu vào
+null
+(n) ấn tượng, cảm giác; sự in, đóng dấu
+null
+(adj) gây ấn tượng mạnh; hùng vĩ, oai vệ
+null
+(v) cải thiện, cái tiến, mở mang
+null
+(n) sự cái thiện, sự cải tiến, sự mở mang
+null
+(n) sự bất lực, bất tài
+null
+(n) việc xảy ra, việc có liên quan
+null
+(v) bao gồm, tính cả
+null
+(prep) bao gồm, kể cả
+null
+(n) lợi tức, thu nhập
+null
+(v) (n) tăng, tăng thêm; sự tăng, sự tăng thêm
+null
+(adv) tăng thêm
+null
+(adv) thật vậy, quả thật
+null
+(n) sự độc lập, nền độc lập
+null
+(adj) độc lập
+null
+(adv)độc lập
+null
+(n) chỉ số, sự biểu thị
+null
+(v) chỉ, cho biết; biểu thị, trình bày ngắn gọn
+null
+(n) sự chỉ, sự biểu thị, sự biểu lộ
+null
+(adj) gián tiếp
+null
+(adv) gián tiếp
+null
+(adj) (n) riêng, riêng biệt; cá nhân
+null
+(adv) ở trong nhà
+null
+(adj) trong nhà
+null
+(adj) (thuộc) công nghiệp, kỹ nghệ
+null
+(n) công nghiệp, kỹ nghệ
+null
+(adj) không thể tránh được, chắc chắn xảy ra; vẫn thường thấy,nghe
+null
+(adv) chắc chắn
+null
+(v) nhiễm, tiêm nhiễm, đầu độc, lan truyền
+null
+(adj) bị nhiễm, bị đầu độc
+null
+(n) sự nhiễm, sự đầu độc
+null
+(adj) lây, nhiễm
+null
+(n) (v) sự ảnh hưởng, sự tác dụng; ảnh hưởng, tác động
+null
+(v) báo cho biết, cung cấp tin tức
+null
+(adj) không chính thức, không nghi thức
+null
+(n) tin tức, tài liệu, kiến thức
+null
+(n) phần hợp thành, thành phần
+null
+(adj) (n) ban đầu, lúc đầu; chữ đầu (của 1 tên gọi)
+null
+(adv) vào lúc ban đầu, ban đ
+null
+(n) bước đầu, sự khởi đầu
+null
+(v) làm tổn thương, làm hại, xúc phạm
+null
+(adj) bị tổn thương, bị xúc phạm
+null
+(n) sự làm tổn thương, làm hại; điều hại, điều tổn hại
+null
+(n) mực
+null
+(adj) ở trong, nội bộ; thân cận
+null
+(adj) vô tội, trong trắng, ngây thơ
+null
+(n) sâu bọ, côn trùng
+null
+(v) chèn vào, lồng vào
+null
+(n) (adj) mặt trong, phía, phần trong; ở trong, nội bộ
+null
+(v) cứ nhất định, cứ khăng khăng
+null
+(v) đặt (hệ thống máy móc, thiết bị...)
+null
+(n) thí dị, ví dụ; trường hợp cá biệt
+null
+ví dụ chẳng hạn
+null
+(adv) để thay thế
+null
+thay cho
+null
+(n) viện, học viện
+null
+(n) sự thành lập, lập; cơ quan, trụ sở
+null
+(n) sự dạy, tài liệu cung cấp
+null
+(n) dụng cụ âm nhạc khí
+null
+(v) (n) lăng mạ, xỉ nhục; lời lăng mạ, sự xỉ nhục
+null
+(adj) lăng mạ, xỉ nhục
+null
+(n) sự bảo hiểm
+null
+(n) sự hiểu biết, trí thông minh
+null
+(adj) thông minh, sáng trí
+null
+(v) ý định, có ý định
+null
+(adj) có ý định, có dụng ý
+null
+(n) ý định, mục đích
+null
+(n) (v) sự thích thú, sự quan tâm, chú ý; làm quan tâm, chú ý
+null
+(adj) làm thích thú, làm quan tâm, làm chú ý
+null
+(adj) có thích thú, có quan tâm, có chú ý
+null
+(n) (adj) phần trong, phía trong; ở trong, ở phía trong
+null
+(adj) ở trong, bên trong, nội địa
+null
+(adj) quốc tế
+null
+(v) giải thích
+null
+(n) sự giải thích
+null
+(v) làm gián đoạn, ngắt lời
+null
+(n) sự gián đoạn, sự ngắt lời
+null
+(n) khoảng (k-t.gian), khoảng cách
+null
+(n) (v) cuộc phỏng vấn, sự gặp mặt; phỏng vấn, nói chuyện riêng
+null
+(prep) vào, vào trong
+null
+(v) giới thiệu
+null
+(n) sự giới thiệu, lời giới thiệu
+null
+(v) phát minh, sáng chế
+null
+(n) sự phát minh, sự sáng chế
+null
+(v) đầu tư
+null
+(v) điều tra, nghiên cứu
+null
+(n) sự điều tra, nghiên cứu
+null
+(n) sự đầu tư, vốn đầu tư
+null
+(n) lời mời, sự mời
+null
+(v) mời
+null
+(v) bao gồm, bao hàm; thu hút, dồn tâm trí
+null
+để hết tâm trí vào
+null
+(n) sự gồm, sự bao hàm; sự để, dồn hết tâm trí vào
+null
+(n) (v) sắt; bọc sắt
+null
+(v) làm phát cáu, chọc tức
+null
+(adj) làm phát cáu, chọc tức
+null
+(adj) tức giận, cáu tiết
+null
+(n) /´ailənd/ hòn đảo
+null
+(n) (v) sự phát ra, sự phát sinh; phát hành, đưa ra
+null
+(n) tin tức; khoả(n)., mó(n).., tiết mục
+null
+(n) áo vét
+null
+(n) mứt
+null
+(adj) ghen, ghen tị
+null
+(n) thạch
+null
+n) nữ trang, kim hoàn
+null
+(v) gia nhập, tham gia; nối, chắp, ghép
+null
+(adj) (n) chung (giữa 2 người hoặc hơn); chỗ nối, đầu nối
+null
+(adv) cùng nhau, cùng chung
+null
+(n) (v) trò cười, lời nói đùa; nói đùa, giễu cợt
+null
+(n) nhà báo
+null
+(n) cuộc hành trình (đường bộ); quãng đường, chặng đường đi
+null
+(n) niềm vui, sự vui mừng
+null
+(n) (v) xét xử, phân xử; quan tòa, thẩm phán
+null
+(n)
+null
+(n) nước ép (rau, củ, quả)
+null
+(v) (n) nhảy; sự nhảy, bước nhảy
+null
+(adj) (n) trẻ hơn, ít tuổi hơn; người ít tuổi hơn
+null
+(adv) đúng, vừa đủ; vừa mới, chỉ
+null
+(n) sự công bằng
+null
+(v) bào chữa, biện hộ
+null
+(adj) hợp lý, được chứng minh là đúng
+null
+(adj) sắc, bén
+null
+say mê, ưa thích
+null
+(v) giữ, giữ lại
+null
+(n) bàn phím
+null
+(v) (n) đá; cú đá
+null
+(n) con dê non,đứa trẻ con
+null
+(n) sự giết chóc, sự tàn sát
+null
+Kilômet
+null
+(n) (adj) loại, giống; tử tế, có lòng tốt
+null
+(adv) tử tế, tốt bụng
+null
+(adj) không tốt, độc ác, tàn nhẫn
+null
+(n) sự tử tế, lòng tốt
+null
+(n) vua, quốc vương
+null
+(n) đầu gối
+null
+(n) con dao
+null
+(v) đan, thêu
+null
+(adj) được đan, được thêu
+null
+(n) việc đan; hàng dệt kim
+null
+(v) (n) đánh, đập; cú đánh
+null
+(n) cái nơ; điểm nút, điểm trung tâm
+null
+(adj) không biết, không được nhận ra
+null
+(adj) nổi tiếng, được nhiều người biết đến
+null
+(n) sự hiểu biết, tri thức
+null
+(n) lít
+null
+(n) (v) nhãn, mác; dán nhãn, ghi mác
+null
+(n) phòng thí nghiệm
+null
+(n) lao động; công việc
+null
+(n) (v) sự thiếu; thiếu
+null
+(adj) ngu đần, ngây ngô
+null
+(n) người yêu, vợ, quý bà, tiểu thư
+null
+(n) hồ
+null
+(n) đèn
+null
+(n) (v) đất, đất canh tác, đất đai
+null
+(n) phong cảnh
+null
+(n) đường nhỏ (làng, hẻm phố)
+null
+(n) ngôn ngữ
+null
+(adj) rộng, lớn, to
+null
+(adv) phong phú, ở mức độ lớn
+null
+(adv) (n) (v) lầm cuối, sau cùng; người cuối cùng
+null
+(adj) (adv) trễ, muộn
+null
+(adv) (adj) chậm hơn
+null
+(adj) (n) muộn nhất, chậm nhất, gần đây nhất
+null
+(adj) (n) sau cùng, gần đây, mới đây
+null
+(v) (n) cười; tiếng cười
+null
+(v) (n) hạ thủy (tàu); khai trương; sự hạ thủy, buổi giới thiệu sản phẩm
+null
+(n) luật
+null
+(n) luật sư
+null
+(v) xếp, đặt, bố trí
+null
+(n) lớp
+null
+(adj) lười biếng
+null
+(v) (n) lãnh đạo, dẫn dắt; sự lãnh đạo, sự hướng dẫn
+null
+(adj) lãnh đạo, dẫn đầu
+null
+(n) người lãnh đạo, lãnh tụ
+null
+(n) lá cây, lá (vàng...)
+null
+(n) liên minh, liên hoàn
+null
+(v) nghiêng, dựa, ỷ vào
+null
+(v) học, nghiên cứu
+null
+pro (n) (adv) tối thiểu; ít nhất
+null
+ít ra, ít nhất, chí ít
+null
+(n) da thuộc
+null
+(v) bỏ đi, rời đi, để lại
+null
+bỏ quên, bỏ sót
+null
+(n) bài diễn thuyết, bài thuyết trình, bài nói chuyện
+null
+(adv) (n) bên trái; về phía trái
+null
+(n) chân (người, thú, bàn..)
+null
+(adj) hợp pháp
+null
+(adv) hợp pháp
+null
+(v) cho vay, cho mượn
+null
+(n) chiều dài, độ dài
+null
+pro (n) (adv) nhỏ bé, ít hơn; số lượng ít hơn
+null
+(n) bài học
+null
+(v) cho phép, để cho
+null
+(n) thư; chữ cái, mẫu tự
+null
+(n) (adj) trình độ, cấp, vị trí; bằng, ngang bằng
+null
+(n) thư viện
+null
+n) bằng, chứng chỉ, bằng cử nhân;sự cho phép
+null
+(v) cấp chứng chỉ, cấp bằng, cho phép
+null
+(n) nắp, vung (xoong, nồi..); mi mắt (eyelid)
+null
+(v) (n) nói dối; lời nói dối, sự dối trá
+null
+(n) đời, sự sống
+null
+(v) (n) giơ lên, nhấc lên; sự nâng, sự nhấc lên
+null
+(n) (adj) (v) ánh sáng; nhẹ, nhẹ nhàng; đốt, thắp sáng
+null
+(adv) nhẹ nhàng
+null
+(prep) (adj) khác, không giống
+null
+(adj) (adv) có thể đúng, có thể xảy ra, có khả năng; có thể,chắc vậy
+null
+(adj) không thể xảy ra, không chắc xảy ra
+null
+(n) (v) giới hạn, ranh giới; giới hạn, hạn chế
+null
+(adj) hạn chế, có giới hạn
+null
+(n) dây, đường, tuyến
+null
+(n) (v) mắt xích, mối liên lạc; liên kết, kết nối
+null
+(n) môi
+null
+(n) (adj) chất lỏng; lỏng, êm ái, du dương, không vững
+null
+(n) (v) danh sách; ghi vào danh sách
+null
+(n) /ˈlɪtərətʃər/ văn chương, văn học
+null
+pro (n) (adv) nhỏ, bé, chút ít; không nhiều; một chút
+null
+nhỏ, một ít
+null
+(v) (adj) (adv) sống, hoạt động
+null
+(adj) sống, đang sống
+null
+(adj) sống, sinh động
+null
+(n) (v) gánh nặng, vật nặng; chất, chở
+null
+(v) cất gánh nặng, dỡ hàng
+null
+(n) sự vay mượn
+null
+(adj) địa phương, bộ phận, cục bộ
+null
+(adv) có tính chất địa phương, cục bộ
+null
+(v) xác định vị trí, định vị
+null
+(adj) định vị
+null
+(n) vị trí, sự định vị
+null
+(v) (n) mớ tóc, mớ bông; khóa
+null
+(n) lô gic
+null
+(adj) hợp lý, hợp logic
+null
+(adj) cô đơn, bơ vơ
+null
+(adj) (adv) dài, xa; lâu
+null
+(v) (n) nhìn; cái nhìn
+null
+trông nom, chăm sóc
+null
+nhìn, ngắm, xem
+null
+tìm kiếm
+null
+mong đợi cách hân hoan
+null
+(adj) lỏng, không chặt
+null
+(adv) lỏng lẻo
+null
+(n) Chúa, vua
+null
+xe tải
+null
+(v) mất, thua, lạc
+null
+(adj) thua, mất
+null
+(n) sự mất, sự thua
+null
+(adj) (adv) to, inh ỏi, ầm ĩ; to, lớn (nói)
+null
+(adv) ầm ĩ, inh ỏi
+null
+(adj) (adv) thấp, bé, lùn
+null
+(adj) trung thành, trung kiên
+null
+(n) may mắn, vận may
+null
+(adj) gặp may, gặp may mắn, hạnh phúc
+null
+(adj) không gặp may, bất hạnh
+null
+(n) hành lý
+null
+(n) cục, tảng, miếng; cái bướu
+null
+(n) phổi
+null
+(n) máy, máy móc
+null
+(n) máy móc, thiết bị
+null
+(adj) điên, mất trí; bực điên người
+null
+(n) tạp chí
+null
+(n) (adj) ma thuật, ảo thuật; (thuộc) ma thuật, ảo thuật
+null
+(n) (v) thư từ, bưu kiện; gửi qua bưu điện
+null
+(adj) chính, chủ yếu, trọng yếu nhất
+null
+(adv) chính, chủ yếu, phần lớn
+null
+(v) giữ gìn, duy trì, bảo vệ
+null
+(adj) lớn, nhiều hơn, trọng đại, chủ yếu
+null
+(n) phần lớn, đa số, ưu thế
+null
+(v) (n) làm, chế tạo; sự chế tạo
+null
+làm thành, cấu thành, gộp thành
+null
+(n) đồ hóa trang, son phấn
+null
+búa
+null
+(v) quản lý, trông nom, điều khiển
+null
+(n) sự quản lý, sự trông nom, sự điều khiển
+null
+(n) người quản lý, giám đốc
+null
+(n) /'mænз/ cách, lối, kiểu; dáng, vẻ, thái độ
+null
+(v) (n) sự chế tạo, sự sản xuất, chế tạo, sản xuất
+null
+(n) sự sản xuất, sự chế tạo
+null
+(n) người chế tạo, người sản xuất
+null
+(n) bản đồ
+null
+tháng ba
+null
+(v) (n) diễu hành, hành quân; cuộc hành quân, cuộc diễu hành
+null
+(n) (v) dấu, nhãn, nhãn mác; đánh dấu, ghi dấu
+null
+(n) chợ, thị trường
+null
+(n) sự cưới xin, sự kết hôn, lễ cưới
+null
+(v) cưới (vợ), lấy (chồng)
+null
+(adj) cưới, kết hôn
+null
+(n) (adj) khối, khối lượng; quần chúng, đại chúng
+null
+(adj) to lớn, đồ sộ
+null
+(n) chủ, chủ nhân, thầy giáo, thạc sĩ
+null
+(n) (v) trận thi đấu, đối thủ, địch thủ; đối chọi, sánh được
+null
+(adj) tính địch thù, thi đấu
+null
+(n) (v) bạn, bạn nghề; giao phối
+null
+(n) (adj) nguyên vật liệu; vật chất, hữu hình
+null
+(n) toán học,môn toán
+null
+(n) (v) chất, vật chất; có ý nghĩa, có tính chất quan trọng
+null
+(adj) (n) cực độ, tối đa; trị số cực đại, lượng cực đại, cực độ
+null
+(adv) có thể, có lẽ
+null
+(n) thị trưởng
+null
+(n) bữa ăn
+null
+(v) nghĩa, có nghĩa là
+null
+(n) ý, ý nghĩa
+null
+(n) của cải, tài sản, phương tiện
+null
+bằng phương tiện
+null
+(adv) trong lúc đó, trong lúc ấy
+null
+(v) (n) đo, đo lường; sự đo lường, đơn vị đo lường
+null
+(n) sự đo lường, phép đo
+null
+(n) thịt
+null
+(n) phương tiện truyền thông đại chúng
+null
+(adj) (thuộc) y học
+null
+(n) y học, y khoa; thuốc
+null
+(adj) (n) trung bình, trung, vừa; sự trung gian, sự môi giới
+null
+(v) gặp, gặp gỡ
+null
+(n) cuộc mít tinh, cuộc biểu tình
+null
+(v) tan ra, chảy ra; làm tan chảy ra
+null
+(n) thành viên, hội viên
+null
+(n) tư cách hội viên, địa vị hội viên
+null
+(n) bộ nhớ, trí nhớ, kỉ niệm
+null
+sự tưởng nhớ
+null
+(adj) (thuộc) trí tuệ, trí óc; mất trí
+null
+(adv) về mặt tinh thần
+null
+(v) kể ra, nói đến, đề cập
+null
+(n) thực đơn
+null
+(adj) chỉ là
+null
+(adv) chỉ, đơn thuần
+null
+(n) tình trạng bừa bộn, tình trạng lộn xộn; người nhếch nhác, bẩn thỉu
+null
+(n) tin nhắn, thư tín, điện thông báo, thông điệp
+null
+(n) kim loại
+null
+(n) phương pháp, cách thức
+null
+(n) mét
+null
+(n) trưa, buổi trưa
+null
+(n) (adj) giữa, ở giữa
+null
+(n) nửa đêm, 12h đêm
+null
+(adj) nhẹ, êm dịu, ôn hòa
+null
+(n) dặm (đo lường)
+null
+(adj) (thuộc) quân đội, quân sự
+null
+mi-li-gam
+null
+mi-li-met
+null
+(n) (v) tâm trí, tinh thần, trí tuệ; chú ý, để ý, chăm sóc, quan tâm
+null
+(n) (adj) công nhân, thợ mỏ; khoáng
+null
+(adj) (n) tối thiểu; số lượng tối thiểu, mức tối thiểu
+null
+(n) bộ trưởng
+null
+(n) bộ
+null
+(adj) nhỏ hơn, thứ yếu, không quan trọng
+null
+(n) phần ít, thiểu số
+null
+(n) phút
+null
+(n) gương
+null
+(v) (n) lỡ, trượt; sự trượt, sự thiếu vắng
+null
+(adj) vắng, thiếu, thất lạc
+null
+(n) (v) lỗi, sai lầm, lỗi lầm; phạm lỗi, phạm sai lầm
+null
+(adj) sai lầm, hiểu lầm
+null
+(v) (n) pha, trộn lẫn; sự pha trộn
+null
+(adj) lẫn lộn, pha trộn
+null
+(n) sự pha trộn, sự hỗn hợp
+null
+(adj) chuyển động, di động
+null
+(n) mẫu, kiểu mẫu
+null
+(adj) hiện đại, tân tiến
+null
+(n) chốc, lát
+null
+(n) (v) lớp trưởng, màn hình máy tính; nghe, ghi phát thanh, giám sát
+null
+(n) lối, thức, điệu
+null
+(n) mặt trăng
+null
+(adj) (thuộc) đạo đức, luân lý, phẩm hạnh; có đạo đức
+null
+(adv) có đạo đức
+null
+(adv) hơn nữa, ngoài ra, vả lại
+null
+pro (n) (adv) lớn nhất, nhiều nhất; nhất, hơn cả
+null
+(adv) hầu hết, chủ yếu là
+null
+(n) sự chuyển động, sự di động
+null
+(n) động cơ mô tô
+null
+(n) xe mô tô
+null
+(v) (n) leo, trèo; núi
+null
+(n) núi
+null
+(n) chuột
+null
+(n) miệng
+null
+(v) (n) di chuyển, chuyển động; sự di chuyển, sự chuyển động
+null
+(adj) động, hoạt động
+null
+(n) sự chuyển động, sự hoạt động; cử động, động tác
+null
+rạp chiếu phim
+null
+(n) bùn
+null
+(v) nhân lên, làm tăng lên nhiều lần; sinh sôi nảy nở
+null
+(n) (v) tội giết người, tội ám sát; giết người, ám sát
+null
+(n) cơ, bắp thịt
+null
+(n) bảo tàng
+null
+(n) nhạc, âm nhạc
+null
+(adj) (thuộc) nhạc, âm nhạc; du dương, êm ái
+null
+(n) nhạc sĩ
+null
+(n) điều huyền bí, điều thần bí
+null
+(adj) thần bí, huyền bí, khó hiểu
+null
+(n) móng (tay, chân) móng vuốt
+null
+(adj) trần, khỏa thân, trơ trụi
+null
+(adj) hẹp, chật hẹp
+null
+(n) dân tộc, quốc gia
+null
+(adj) (thuộc) quốc gia, dân tộc
+null
+(adj) (thuộc) tự nhiên, thiên nhiên
+null
+(adv) vốn, tự nhiên, đương nhiên
+null
+(n) tự nhiên, thiên nhiên
+null
+(n) hải quân
+null
+(adj) (adv) gần
+null
+(adv) gần, sắp, suýt
+null
+(adj) sạch, ngăn nắp; rành mạch
+null
+(adv) gọn gàng, ngăn nắp
+null
+(adj) cần, cần thiết, thiết yếu
+null
+(adv) tất yếu, nhất thiết
+null
+(adj) không cần thiết, không mong muốn
+null
+(n) cổ
+null
+(v) (n) cần, đòi hỏi; sự cần
+null
+(n) cái kim, mũi nhọn
+null
+(adj) phủ định
+null
+(n) hàng xóm
+null
+(n) hàng xóm, vùng lân cận, khoảng, chừng
+null
+pro (n) (adv) không này mà cũng không kia
+null
+(n) cháu trai
+null
+(n) khí lực, thần kinh, can đảm
+null
+(adj) hoảng sợ, dễ bị kích thích, hay lo lắng
+null
+(adv) bồn chồn, lo lắng
+null
+(n) (v) tổ, ổ; làm tổ
+null
+(n) lưới, mạng
+null
+(n) mạng lưới, hệ thống
+null
+(adv) tuy nhiên, tuy thế mà
+null
+(adv) mới
+null
+(n) tin, tin tức
+null
+(n) báo
+null
+(adj) đẹp, thú vị, dễ chịu
+null
+(adv) thú vị, dễ chịu
+null
+(n) cháu gái
+null
+(n) tiếng ồn, sự huyên náo
+null
+(adj) ồn ào, huyên náo
+null
+(adv) ồn ào, huyên náo
+null
+pro(n) không ai, không người, vật gì
+null
+(n) lời nói vô lý, vô nghĩa
+null
+(conj) (adv) cũng không
+null
+(adj) (n) thường, bình thường; tình trạng bình thường
+null
+(adv) thông thường, như thường lệ
+null
+(n) (adj) (adv) phía bắc, phương bắc
+null
+(adj) Bắc
+null
+(n) mũi
+null
+(n) (v) lời ghi, lời ghi chép; ghi chú, ghi chép
+null
+(n) (v) thông báo, yết thị; chú ý, để ý, nhận biết
+null
+chú ý
+null
+(adj) đáng chú ý, đáng để ý
+null
+(n) tiểu thuyết, truyện
+null
+(adv) không nơi nào, không ở đâu
+null
+(adj) (thuộc) hạt nhân
+null
+(n) y tá
+null
+(n) quả hạch; đầu
+null
+(v) vâng lời, tuân theo, tuân lệnh
+null
+(n) vật, vật thể; phản đối, chống lại
+null
+(n) (adj) mục tiêu, mục đích; (thuộc) mục tiêu,khách quan
+null
+(n) sự quan sát, sự theo dõi
+null
+(v) quan sát, theo dõi
+null
+(v) đạt được, giành được
+null
+(adj) rõ ràng, rành mạch, hiển nhiên
+null
+(adv) một cách rõ ràng, có thể thấy được
+null
+(n) dịp, cơ hội
+null
+(adv) thỉnh thoảng, đôi khi
+null
+(v) giữ, chiếm lĩnh, chiếm giữ
+null
+(adj) đang sử dụng, đầy (người)
+null
+(v) xảy ra, xảy đến, xuất hiện
+null
+(n) đại dương
+null
+(adj) kỳ quặc, kỳ cục, lẻ (số)
+null
+(adv) kỳ quặc, kỳ cục, lẻ (số)
+null
+(adv) (prep) tắt; khỏi, cách, rời
+null
+(n) sự vi phạm, sự phạm tội
+null
+(v) xúc phạm, làm bực mình, làm khó chịu
+null
+(adj) sự tấn công, cuộc tấn công
+null
+(v) (n) biếu, tặng, cho; sự trả giá
+null
+(n) cơ quan, văn phòng, bộ
+null
+(n) viên chức, cảnh sát, sĩ quan
+null
+(adj) (n) (thuộc) chính quyền, văn phòng; viên chức, công chức
+null
+(adv) một cách trịnh trọng, một cách chính thứ
+null
+(adj) lỗi thời
+null
+(adv) (conj) một lần; khi mà, ngay khi, một khi
+null
+nhau, lẫn nhau
+null
+(n) củ hành
+null
+(adj) (adv) chỉ có 1, duy nhất; chỉ, mới
+null
+(prep) về phía trên, lên trên
+null
+(adj) (v) mở, ngỏ; mở, bắt đầu, khai mạc
+null
+(adv) công khai, thẳng thắn
+null
+(n) khe hở, lỗ; sự bắt đầu, sự khai mạc, lễ khánh thành
+null
+(v) hoạt động, điều khiển
+null
+(n) sự hoạt động, quá trình hoạt động
+null
+(n) ý kiến, quan điểm
+null
+(n) địch thủ, đối thủ, kẻ thù
+null
+(n) cơ hội, thời cơ
+null
+(v) đối kháng, đối chọi, đối lập; chống đối, phản đối
+null
+(adj) tính đối kháng, đối chọi
+null
+chống lại, phản đối
+null
+(adj) (adv) (n)prep.đối nhau, ngược nhau; trước mặt, đối diện; điều trái ngược
+null
+(n) sự đối lập, sự đối nhau; sự chống lại, sự phản đối;phe đối lập
+null
+(n) sự lựa chọn
+null
+(n) (adj) quả cam; có màu da cam
+null
+(n) (v) thứ, bậc; ra lệnh
+null
+hợp lệ
+null
+(adj) thường, thông thường
+null
+(n) đàn óoc gan
+null
+(n) tổ chức, cơ quan; sự tổ chức
+null
+(v) tổ chức, thiết lập
+null
+(adj) có trật tự, ngăn nắp, được sắp xếp, được tổ chức
+null
+(n) gốc, nguồn gốc, căn nguyên
+null
+(adj) (n) (thuộc) gốc, nguồn gốc, căn nguyên; nguyên bản
+null
+(adv) một cách sáng tạo, mới mẻ, độc đáo; khởi đầu, đầu tiên
+null
+(adj) pro(n) khác
+null
+(adv) khác, cách khác; nếu không thì...; mặt khác
+null
+(v) phải, nên, hẳn là
+null
+pro(n) bản thân chúng ta, bản thân chúng tôi
+null
+(adv) ở ngoài trời, ở ngoài nhà
+null
+(adj) ngoài trời, ở ngoài
+null
+(adj) ở phía ngoài, ở xa hơn
+null
+(v) (n) vẽ, phác tảo; đường nét, hình dáng, nét ngoài
+null
+(n) sự sản xuất; sản phẩm, sản lượng
+null
+(adj) (adv) bề ngoài, bên ngoài; ở ngoài
+null
+(adj) nổi bật, đáng chú ý; còn tồn lại
+null
+(n) lò (nướng)
+null
+(adv).prep. bên trên, vượt qua; lên, lên trên
+null
+(adj) (adv) toàn bộ, toàn thể; tất cả, bao gồm
+null
+(v) thắng, chiến thắng, khắc phục, đánh bại
+null
+(v) nợ, hàm ơn; có được (cái gì)
+null
+(adj) pro (n) (v) của chính mình, tự mình; nhận, nhìn nhận
+null
+(n) người chủ, chủ nhân
+null
+(n) bước chân, bước
+null
+(v) (n) gói, bọc; bó, gói
+null
+(n) (v) gói đồ, bưu kiện; đóng gói, đóng kiện
+null
+(n) bao bì
+null
+(n) gói nhỏ
+null
+(n) trang (sách)
+null
+(n) sự đau đớn, sự đau khổ
+null
+(adj) đau đớn, đau khổ
+null
+(n) (v) sơn, vôi màu; sơn, quét sơn
+null
+(n) sự sơn; bức họa, bức tranh
+null
+(n) họa sĩ
+null
+(n) đôi, cặp
+null
+(n) cung điện, lâu đài
+null
+(adj) tái, nhợt
+null
+(n) xoong, chảo
+null
+(n) ván ô (cửa, tường), pa nô
+null
+(n) quần lót, đùi
+null
+(n) giấy
+null
+(adj) song song, tương đương
+null
+(n) cha, mẹ
+null
+(n) (v) công viên, vườn hoa; khoanh vùng thành công viên
+null
+(n) nghi viện, quốc hội
+null
+(n) phần, bộ phận
+null
+tham gia vào
+null
+(adj) riêng biệt, cá biệt
+null
+(adv) một cách đặc biệt, cá biệt, riêng biệt
+null
+(adv) đến chừng mực nào đó, phần nào đó
+null
+(n)/ đối tác, cộng sự
+null
+(n) sự chung phần, sự cộng tác
+null
+(n) tiệc, buổi liên hoan; đảng
+null
+(v) qua, vượt qua, ngang qua
+null
+(n) (adj) sự đi qua, sự trôi qua; thoáng qua, ngắn ngủi
+null
+(n) sự đi qua, sự trôi qua; hành lang
+null
+(n) hành khách
+null
+(n) hộ chiếu
+null
+(adj) (adv) quá khứ, dĩ vãng; quá, qua
+null
+(n) đường mòn; hướng đi
+null
+(n) tính kiên nhẫn, nhẫn nại, kiên trì, sự chịu đựng
+null
+(n) (adj) bệnh nhân; kiên nhẫn, nhẫn nại, bền chí
+null
+(n) mẫu, khuôn mẫu
+null
+(v) (n) tạm nghỉ, dừng; sự tạm nghỉ, sự tạm ngừng
+null
+(v) (n) trả, thanh toán, nộp; tiền lương
+null
+(n) sự trả tiền, số tiền trả, tiền bồi thường
+null
+(n) hòa bình, sự hòa thuận
+null
+(adj) hòa bình, thái bình, yên tĩnh
+null
+(n) lưỡi trai; đỉnh, chóp
+null
+(n) đồng xu, số tiền
+null
+(n) bút chì
+null
+(n) tiền trợ cấp, lương hưu
+null
+(n) dân tộc, dòng giống; người
+null
+(n) hạt tiêu, cây ớt
+null
+(prep) cho mỗi
+null
+(n) phần trăm
+null
+(adj) hoàn hảo
+null
+(adv) một cách hoàn hảo
+null
+(v) biểu diễn; làm, thực hiện
+null
+(n) sự làm, sự thực hiện, sự thi hành, sự biểu diễn
+null
+(n) người biểu diễn, người trình diễn
+null
+(adv) có thể, có lẽ
+null
+(n) kỳ, thời kỳ, thời gian; thời đại
+null
+(adj) lâu dài, vĩnh cửu, thường xuyên
+null
+(adv) cách thường xuyên, vĩnh cửu
+null
+(n) sự cho phép, giấy phép
+null
+(v) /'pə:mit/ cho phép, cho cơ hội
+null
+(n) con người, người
+null
+(adj) cá nhân, tư, riêng tư
+null
+(adv) đích thân, bản thân, về phần rôi, đối với tôi
+null
+(n) nhân cách, tính cách; nhân phẩm, cá tính
+null
+(v) thuyết phục
+null
+(n) cơn nóng giận; vật cưng, người được yêu thích
+null
+(n) xăng dầu
+null
+(n) tuần trăng; giai đoạn, thời kỳ
+null
+(n) triết học, triết lý
+null
+(n) (v) bản sao chụp; sao chụp
+null
+(n) (v) ảnh, bức ảnh; chụp ảnh
+null
+(n) thợ chụp ảnh, nhà nhiếp ảnh
+null
+(n) thuật chụp ảnh, nghề nhiếp ảnh
+null
+(n) câu; thành ngữ, cụm từ
+null
+(adj) vật chất; (thuộc) cơ thể, thân thể
+null
+(adv) về thân thể, theo luật tự nhiên
+null
+(n) vật lý học
+null
+(v) cuốc (đất); đào, khoét (lỗ)
+null
+cuốc, vỡ, xé
+null
+(n) bức vẽ, bức họa
+null
+(n) mảnh, mẩu; đồng tiền
+null
+(n) (v) cọc, chồng, đống, pin; đóng cọc, chất chồng
+null
+(n) viên thuốc
+null
+(n) phi công
+null
+(n) (v) đinh ghim; ghim, kẹp
+null
+(adj) (n) màu hồng; hoa cẩm chướng, tình trạng tốt, hoàn hảo
+null
+(n) Panh (đơn vị (đo lường) ở Anh bằng 0, 58 lít; ở Mỹ bằng 0, 473 lít)
+null
+(n) ống dẫn (khí, nước...)
+null
+(n) sân (chơi các môn thể thao); đầu hắc ín
+null
+(n) lòng thương hại, điều đáng tiếc, đáng thương
+null
+(n) (v) nơi, địa điểm; quảng trường
+null
+xảy ra, được cử hành, được tổ chức
+null
+(adj) ngay thẳng, đơn giản, chất phác
+null
+(n) (v) bản đồ, kế hoạch; vẽ bản đồ, lập kế hoạch, dự kiến
+null
+(n) sự lập kế hoạch, sự quy hoạch
+null
+(n) mặt phẳng, mặt bằng
+null
+(n) hành tinh
+null
+(n) (v) thực vật, sự mọc lên; trồng, gieo
+null
+(n) (adj) chất dẻo, làm bằng chất dẻo
+null
+(n) bản, tấm kim loại
+null
+(n) nền, bục, bệ; thềm, sân ga
+null
+(adj) vui vẻ, dễ thương; dịu dàng, thân mật
+null
+(adv) vui vẻ, dễ thương; thân mật
+null
+(adj) không dễ chịu, khó chịu, khó ưa
+null
+(v) làm vui lòng, vừa lòng, mong... vui lòng, xin mời
+null
+(adj) mang lại niềm vui thích; dễ chịu
+null
+(adj) hài lòng
+null
+(n) niềm vui thích, điều thích thú, điều thú vị; ý muốn, ý thích
+null
+pro(n) (adv) (n) nhiều, sự thừa; sự sung túc, sự phong phú
+null
+(n) (v) mảnh đất nhở, sơ đồ, đồ thị, đồ án; vẽ sơ đồ, dựng đồ án
+null
+(n) nút (thùng, chậu, bồn..)
+null
+(adj) (conj) cộng với (số, người...); dấu cộng; cộng,thêm vào
+null
+(n) túi (quần áo, trong xe hơi), túi tiền
+null
+(n) bài thơ
+null
+(n) thi ca; chất thơ
+null
+(n) (v) mũi nhọn, điểm; vót, làm nhọn, chấm (câu..)
+null
+(adj) nhọn, có đầu nhọn
+null
+(n) (v) chất độc, thuốc độc; đánh thuốc độc, tẩm thuốc độc
+null
+(adj) độc, có chất độc, gây chết, bệnh
+null
+(n) người Ba Lan; cực (nam châm, trái đất...)
+null
+(n) cảnh sát, công an
+null
+(n) chính sách, cách xử sự, điều khoản, hợp đồng
+null
+(n) (v) nước bóng, nước láng; đánh bóng, làm cho láng
+null
+(adj) lễ phép, lịch sự
+null
+(adv) lễ phép, lịch sự
+null
+(adj) về chính trị, về chính phủ, có tính chính trị
+null
+(adv) về mặt chính trị; khôn ngoan, thận trọng; sảo quyệt
+null
+(n) nhà chính trị, chính khách
+null
+(n) họat động chính trị, đời sống chính trị, quan điểm chính trị
+null
+(n) sự ô nhiễm
+null
+(n) vũng nước; bể bơi, hồ bơi
+null
+(adj) nghèo
+null
+(adj) có tính đại chúng, (thuộc) nhân dân; được nhiều người ưa chuộng
+null
+(n) dân cư, dân số; mật độ dân số
+null
+(n) cảng
+null
+(v) (n) đưa ra, đề ra, đặt; sự đặt, đề ra
+null
+(n) vị trí, chỗ
+null
+(adj) xác thực, rõ ràng, tích cực, lạc quan
+null
+(v) có, chiếm hữu
+null
+(n) quyền sở hữu, vật sở hữu
+null
+(n) khă năng, triển vọng
+null
+(adj) có thể, có thể thực hiện
+null
+(adv) có lẽ, có thể, có thể chấp nhận được
+null
+(n) (v) thư, bưu kiện; gửi thư
+null
+(n) bưu điện
+null
+(n) can, bình, lọ...
+null
+(n) khoai tây
+null
+(adj) (n) tiềm năng; khả năng, tiềm lực
+null
+(adv) tiềm năng, tiềm ẩn
+null
+(n) pao - đơn vị đo lường
+null
+(v) rót, đổ, giội
+null
+(n) bột, bụi
+null
+(n) khả năng, tài năng, năng lực; sức mạnh, nội lực; quyền lực
+null
+(adj) hùng mạnh, hùng cường
+null
+(adj) thực hành; thực tế
+null
+(adv) về mặt thực hành; thực tế
+null
+(n) (v) thực hành, thực tiễn
+null
+(v) thực hành, tập luyện
+null
+(n) (v) sự ca ngợi, sự tán dương, lòng tôn kính, tôn thờ; khen ngợi, tán dương
+null
+(n) sự cầu nguyện
+null
+(adj) rõ ràng, chính xác; tỉ mỉ, kỹ tính
+null
+(adv) đúng, chính xác, cần thận
+null
+(v) báo trước, tiên đoán, dự báo
+null
+(v) thích hơn
+null
+(n) sự thích hơn, sự ưa hơn; cái được ưa thích hơn
+null
+(adj) mang thai; giàu trí tưởng tượng, sáng tạo
+null
+(n) biệt thự
+null
+(n) sự sửa soạn, sự chuẩn bị
+null
+(v) sửa soạn, chuẩn bị
+null
+(adj) đã được chuẩn bị
+null
+(n) sự hiện diện, sự có mặt; người, vât hiện diện
+null
+(n) (v) có mặt, hiện diện; hiện nay, hiện thời; bày tỏ, giới thiệu, trình bày
+null
+(n) bài thuyết trình, sự trình diện, sự giới thiệu
+null
+(v) bảo quản, giữ gìn
+null
+(n) hiệu trưởng, chủ tịnh, tổng thống
+null
+(n) (v) sự ép, sự nén, sự ấn; ép, nén, bóp, ấn
+null
+(n) sức ép, áp lực, áp suất
+null
+(adv) có thể được, có lẽ
+null
+(v) giả vờ, giả bộ, làm ra vẻ
+null
+(adv) (adj) khá, vừa phải; xinh, xinh xắn; đẹp
+null
+(v) ngăn cản, ngăn chặn, ngăn ngừa
+null
+(adj) vội vàng, hấp tấp; trước (vd. ngày hôm trước), ưu tiên
+null
+(adv) trước, trước đây
+null
+(n) giá
+null
+(n) sự kiêu hãnh, sự hãnh diện; tính kiêu căng, tự phụ
+null
+(n) linh mục, thầy tu
+null
+(adj) nguyên thủy, đầu tiên; thời cổ đại, nguyên sinh; sơ cấp, tiểu học
+null
+(adv) trước hết, đầu tiên
+null
+(n) thủ tướng
+null
+(n) hoàng tử
+null
+(n) công chúa
+null
+(n) cơ bản, chủ yếu; nguyên lý, nguyên tắc
+null
+(v) (n) in, xuất bản; sự in ra
+null
+(n) sự in, thuật in, kỹ sảo in
+null
+(n) máy in, thợ in
+null
+(adj) trước, ưu tiên
+null
+(n) sự ưu tế, quyền ưu tiên
+null
+(n) nhà tù
+null
+(n) tù nhân
+null
+(adj) cá nhân, riêng
+null
+(adv) riêng tư, cá nhân
+null
+(n) giải, giải thưởng
+null
+(adj) có thể, có khả năng
+null
+(adv) hầu như chắc chắn
+null
+(n) vấn đề, điều khó giải quyết
+null
+(n) thủ tục
+null
+(v) tiến lên, theo đuổi, tiếp diễn
+null
+(n) (v) quá trình, sự tiến triển, quy trình; chế biến, gia công, xử lý
+null
+(v) sản xuất, chế tạo
+null
+(n) nhà sản xuất
+null
+(n) sản phẩm
+null
+(n) sự sản xuất, chế tạo
+null
+(n) nghề, nghề nghiệp
+null
+(adj) (n) (thuộc) nghề, nghề nghiệp; chuyên nghiệp
+null
+(n) giáo sư, giảng viên
+null
+(n) thuận lợi, lợi ích, lợi nhuận
+null
+(n) (v) chương trình; lên chương trình
+null
+(n) chương trình
+null
+(n) (v) sự tiến tới, sự tiến triển; tiến bộ, tiến triển, phát triển
+null
+(n) (v) đề án, dự án,kế hoạch; dự kiến, kế hoạch
+null
+(v) (n) hứa, lời hứa
+null
+(v) thăng chức, thăng cấp
+null
+(n) sự thăng chức, sự thăng cấp
+null
+(adj) (v) mau lẹ, nhanh chóng; xúi, giục, nhắc nhở
+null
+(adv) mau lẹ, ngay lập tức
+null
+(v) tuyên bố, thông báo, phát âm
+null
+(n) sự phát âm
+null
+(n) chứng, chứng cớ, bằng chứng; sự kiểm chứng
+null
+(adj) đúng, thích đáng, thích hợp
+null
+(adv) một cách đúng đắn, một cách thích đáng
+null
+(n) tài sản, của cải; đất đai, nhà cửa, bất động sản
+null
+(n) sự cân xứng, sự cân đối
+null
+(n) sự đề nghị, đề xuất
+null
+(v) đề nghị, đề xuất, đưa ra
+null
+(n) viễn cảnh, toàn cảnh; triển vọng, mong chờ
+null
+(v) bảo vệ, che chở
+null
+(n) sự bảo vệ, sự che chở
+null
+(n) (v) sự phản đối, sự phản kháng; phản đối, phản kháng
+null
+(adj) tự hào, kiêu hãnh
+null
+(adv) một cách tự hào, một cách hãnh diện
+null
+(v) chứng tỏ, chứng minh
+null
+(v) chuẩn bị đầy đủ, dự phòng; cung cấp, chu cấp
+null
+(conj) với điều kiện là, miễn là
+null
+(n) panh (= 0, 58 lít (E);=0, 473 lít (A))
+null
+(n) quán rượu, tiệm rượu
+null
+(adj) (n) chung, công cộng; công chúng, nhân dân
+null
+giữa công chúng, công khai
+null
+(adv) công khai, công cộng
+null
+(n) sự công bố; sự xuất bản
+null
+(n) sự công khai, sự quảng cáo
+null
+(v) công bố, ban bố; xuất bản
+null
+(n) công việc, nghề xuất bản
+null
+(v) (n) lôi, kéo, giật; sự lôi kéo, sự giật
+null
+(v) (n) đấm, thụi; quả đấm, cú thụi
+null
+(v) phạt, trừng phạt
+null
+(n) sự trừng phạt, sự trừng trị
+null
+(n) học sinh
+null
+(n) (v) sự mua, sự tậu; mua, sắm, tậu
+null
+(adj) nguyên chất, tinh khiết, trong lành
+null
+(adv) hoàn toàn, chỉ là
+null
+(adj) (n) tía, có màu tía; màu tía
+null
+(n) mục đích, ý định
+null
+cố tình, cố ý, có chủ tâm
+null
+(v) đuổi theo, đuổi bắt
+null
+(v) (n) xô đẩy; sự xô đẩy
+null
+(v) đặt, để, cho vào
+null
+mặc (áo), đội (mũ), đi (giày)
+null
+tắt, dập tắt
+null
+(n) phẩm chất, năng lực; khả năng chuyên môn
+null
+(v) đủ khả năng, đủ tư cách, điều kiện
+null
+(adj) đủ tư cách, điều kiện, khả năng
+null
+n) chất lượng, phẩm chất
+null
+(n) lượng, số lượng
+null
+(n) 1/4, 15 phút
+null
+(n) (v) câu hỏi; hỏi, chất vấn
+null
+(adj) nhanh
+null
+(adv) nhanh
+null
+(adj) lặng, yên lặng, yên tĩnh
+null
+(adv) lặng, yên lặng, yên tĩnh
+null
+(v) thoát, thoát ra
+null
+(adv) hoàn toàn, hầu hết
+null
+(v) trích dẫn
+null
+(n) (v) loài, chủng, giống; cuộc đua; đua
+null
+(n) cuộc đua
+null
+(n) đường ray
+null
+(n) đường sắt
+null
+(v) nâng lên, đưa lên, ngẩng lên
+null
+(n) dãy, hàng, loại; phạm vi, trình độ
+null
+(n) (v) hàng, dãy; sắp xếp thành hàng, dãy
+null
+(adj) nhanh, nhanh chóng
+null
+(adv) nhanh, nhanh chóng
+null
+(adj) hiếm, ít
+null
+(adv) hiếm khi, ít khi
+null
+(n) (v) tỷ lệ, tốc độ
+null
+(adv) thà.. còn hơn, thích... hơn
+null
+hơn là
+null
+(adj) sống (# chín), thô, còn nguyên chất
+null
+(v) đến, đi đến, tới
+null
+(v) tác động trở lại, phản ứng
+null
+(n) sự phản ứng; sự phản tác dụng
+null
+(n) sự đọc
+null
+(n) người đọc, độc giả
+null
+(adj) sẵn sàng
+null
+(adj) thực, thực tế, có thật
+null
+(adv) thực, thực ra, thực sự
+null
+(adj) hiện thực
+null
+(n) sự thật, thực tế, thực tại
+null
+(v) thực hiện, thực hành
+null
+(n) (adj) phía sau; ở đằng sau, ở đằng sau
+null
+(n) lý do, lý lẽ
+null
+(adj) có lý, hợp lý
+null
+(adv) hợp lý
+null
+(adj) vô lý
+null
+(v) gọi về, triệu hồi; nhặc lại, gợi lại
+null
+(n) công thức; đơn thuốc
+null
+(v) nhận, lĩnh, thu
+null
+(adj) gần đây, mới đây
+null
+(adv) gần đây, mới đây
+null
+(n) sự nhận, sự tiếp nhận, sự đón tiếp
+null
+(v) tính, đếm
+null
+(n) sự công nhận, sự thừa nhận
+null
+(v) nhận ra, nhận diện; công nhận, thừa nhận
+null
+(v) giới thiệu, tiến cử; đề nghị, khuyên bảo
+null
+(n) (v) bản ghi, sự ghi, bản thu, sự thu; thu, ghi chép
+null
+(n) sự ghi, sự thu âm
+null
+(v) lấy lại, giành lại
+null
+(v) giảm, giảm bớt
+null
+(n) sự giảm giá, sự hạ giá
+null
+(v) xem, tham khảo; ám chỉ, nhắc đến
+null
+(n) sự tham khảo, hỏi ý kiến
+null
+(v) phản chiếu, phản hồi, phản ánh
+null
+(v) (n) cải cách, cải thiện, cải tạo; sự cải cách, sự cải thiện, cải tạo
+null
+tủ lạnh
+null
+(n) sự từ chối, sự khước từ
+null
+(v) từ chối, khước từ
+null
+(v) (n) nhìn, đánh giá; cái nhìn, sự quan tâm, sự chú ý (lời chúc tụng cuối thư)
+null
+(prep) về, về việc, đối với (vấn đề...)
+null
+(n) vùng, miền
+null
+(adj) vùng, địa phương
+null
+(v) (n) đăng ký, ghi vào sổ; sổ, sổ sách, máy ghi
+null
+(v) (n) đáng tiếc, hối tiếc; lòng thương tiếc, sự hối tiếc
+null
+(adj) thường xuyên, đều đặn
+null
+(adv) đều đặn, thường xuyên
+null
+(n) sự điều chỉnh, điều lệ, quy tắc
+null
+(v) không chấp nhận, loại bỏ, bác bỏ
+null
+(v) kể lại, thuật lại; liên hệ, liên quan
+null
+(adj) có liên quan, có quan hệ với ai, cái gì
+null
+(n) mối quan hệ, sự liên quan, liên lạc
+null
+(n) mối quan hệ, mối liên lạc
+null
+(adj) (n) có liên quan đến; người có họ, đại từ quan hệ
+null
+(adv) có liên quan, có quan hệ
+null
+(v) giải trí, nghỉ ngơi
+null
+(adj) thanh thản, thoải mái
+null
+(adj) làm giảm, bớt căng thẳng
+null
+(v) (n) làm nhẹ, bớt, thả, phóng thích, phát hành; sự giải thoát, thoát khỏi, sự thả
+null
+(adj) thích hợp, có liên quan
+null
+(n) sự giảm nhẹ, sự làm cho khuây khỏa; sự trợ cấo; sự đền bù
+null
+(n) tôn giáo
+null
+(adj) (thuộc) tôn giáo
+null
+(v) tin vào, tin cậy, tin tưởng vào
+null
+(v) còn lại, vẫn còn như cũ
+null
+(adj) còn lại
+null
+(n) đồ thừa, cái còn lại
+null
+(n) (v) sự nhận xét, phê bình, sự để ý, chú ý; nhận xét, phê bình
+null
+(adj) đáng chú ý, đáng để ý; khác thường
+null
+(adv) đáng chú ý, đáng để ý; khác thường
+null
+(v) nhớ, nhớ lại
+null
+(v) nhắc nhở, gợi nhớ
+null
+(adj) xa, xa xôi, xa cách
+null
+(n) viêc di chuyển, việc dọn nhà, dời đi
+null
+(v) dời đi, di chuyển
+null
+(n) (v) sự thuê mướn; cho thuê, thuê
+null
+(adj) được thuê, được mướn
+null
+(v) (n) sửa chữa, chỉnh tu; sự sửa chữa, sự chỉnh tu
+null
+(v) nhắc lại, lặp lại
+null
+(adj) được nhắc lại, được lặp lại
+null
+(adv) lặp đi lặp lại nhiều lần
+null
+(v) thay thế
+null
+(n) (v) sự trả lời, sự hồi âm; trả lời, hồi âm
+null
+(v) (n) báo cáo, tường trình; bản báo cáo, bản tường trình
+null
+(v) miêu tả, hình dung; đại diện, thay mặt
+null
+(n) (adj) điều tiêu biểu, tượng trưng, mẫu; miêu tả, biểu hiện, đại diện
+null
+(v) tái sản xuất
+null
+(n) sự nổi tiếng, nổi danh
+null
+(n) (v) lời thỉnh cầu, lời đề nghị, yêu cầu; thỉnh cầu
+null
+(v) đòi hỏi, yêu cầu, quy định
+null
+(n) nhu cầu, sự đòi hỏi; luật lệ, thủ tục
+null
+(v) (n) giải thoát, cứu nguy; sự giải thoát, sự cứu nguy
+null
+(n) sự nghiên cứu
+null
+(n) sự hạn chế, điều kiện hạn chế
+null
+(v) (n) dự trữ, để dành, đặt trước, đăng ký trước; sự dự trữ, sự để dành, sự đặt trước
+null
+(n) (adj) người sinh sống, trú ngụ, khách trọ; có nhà ở, cư trú, thường trú
+null
+(v) chống lại, phản đổi, kháng cự
+null
+(n) sự chống lại, sự phản đối, sự kháng cự
+null
+(v) quyết định, kiên quyết (làm gì); giải quyết (vấn đề, khó khăn)
+null
+(n) kế sách, phương kế
+null
+(n) tài nguyên; kế sách, thủ đoạn
+null
+(n) (v) sự kính trọng, sự lễ phép; tôn trọng, kính trọng, khâm phục
+null
+(v) hưởng ứng, phản ứng lại, trả lời
+null
+(n) sự trả lời, câu trả lời, sự hưởng ứng, sự đáp lại
+null
+(n) trách nhiệm, sự chịu trách nhiệm
+null
+(adj) chịu trách nhiệm về, chịu trách nhiệm trước ai,cái gì
+null
+(n) (v) sự nghỉ ngơi, lúc nghỉ; nghỉ, nghỉ ngơi
+null
+vật, cái còn lại, những người, cái khác
+null
+(n) nhà hàng ăn, hiệu ăn
+null
+(v) hoàn lại, trả lại; sửa chữa lại, phục hồi lại
+null
+(v) hạn chế, giới hạn
+null
+(adj) bị hạn chế, có giới hạn; vùng cấm
+null
+(n) sự hạn chế, sự giới hạn
+null
+(n) (v) kết quả; bởi, do.. mà ra, kết quả là...
+null
+(v) giữ lại, nhớ được
+null
+(v) rời bỏ, rút về; thôi, nghỉ việc, về hưu
+null
+(adj) ẩn dật, hẻo lánh, đã về hưu, đã nghỉ việc
+null
+(n) sự ẩn dật, nơi hẻo lánh, sự về hưu, sự nghỉ việc
+null
+(v) (n) trở lại, trở về; sự trở lại, sự trở về
+null
+(v) bộc lộ, biểu lộ, tiết lộ; phát hiện, khám phá
+null
+(v) (n) đảo, ngược lại; điều trái ngược, mặt trái
+null
+(n) (v) sự xem lại, sự xét lại; làm lại, xem xét lại
+null
+(v) đọc lại, xem lại, sửa lại, ôn lại
+null
+(n) sự xem lại, sự đọc lại, sự sửa lại, sự ôn lại
+null
+(n) cuộc cách mạng
+null
+(n) (v) sự thưởng, phần thưởng; thưởng, thưởng công
+null
+(n) nhịp điệu
+null
+(n) gạo, thóc, cơm; cây lúa
+null
+(adj) giàu, giàu có
+null
+(v) giải thoát
+null
+tống khứ
+null
+(v) (n) đi, cưỡi (ngựa); sự đi, đường đi
+null
+(n) môn thể thao cưỡi ngựa, sự đi xe (bus, điện, xe đạp)
+null
+(n) người cưỡi ngựa, người đi xe đạp
+null
+(adj) buồn cười, lố bịch, lố lăng
+null
+(adj) (adv) (n) thẳng, phải, tốt; ngay, đúng; điều thiện, điều phải, bên phải
+null
+(adv) đúng, phải, có lý
+null
+(n) (v) chiếc nhẫn, đeo nhẫn cho ai
+null
+(n) (v) sự lên, sự tăng lương, thăng cấp; dậy, đứng lên, mọc (mặt trời), thành đạt
+null
+(n) (v) sự liều, mạo hiểm; liều
+null
+(n) (adj) đối thủ, địch thủ; đối địch, cạnh tranh
+null
+(n) con đường, đường phố
+null
+(v) cướp, lấy trộm
+null
+(n) đá
+null
+(n) vai (diễn), vai trò
+null
+(n) (v) cuốn, cuộn, sự lăn tròn; lăn, cuốn, quấn, cuộn
+null
+(adj) lãng mạn
+null
+(n) mái nhà, nóc
+null
+(n) gốc, rễ
+null
+(n) dây cáp, dây thừng, xâu, chuỗi
+null
+(adj) gồ ghề, lởm chởm
+null
+(adv) gồ ghề, lởm chởm
+null
+(adj) (adv) (n)tròn, vòng quanh, xung quanh
+null
+(adj) bị làm thành tròn; phát triển đầy đủ
+null
+(n) đường đi, lộ trình, tuyến đường
+null
+(n) (adj) thói thường, lệ thường, thủ tục; thường lệ, thông thường
+null
+(n) hàng, dãy
+null
+(adj) (thuộc) vua, nữ hoàng, hoàng gia
+null
+(v) cọ xát, xoa bóp, nghiền, tán
+null
+(n) cao su
+null
+(n) vật vô giá trị, bỏ đi, rác rưởi
+null
+(adj) bất lịch sự, thô lỗ; thô sơ, đơn giản
+null
+(adv) bất lịch sự, thô lỗ; thô sơ, đơn giản
+null
+(v) (n) làm hỏng, làm đổ nát, làm phá sản; sự hỏng, sự đổ nát, sự phá sản
+null
+(adj) bị hỏng, bị đổ nát, bị phá sản
+null
+(n) (v) quy tắc, điều lệ, luật lệ; cai trị, chỉ huy, điều khiển
+null
+(n) người cai trị, người trị vì; thước kẻ
+null
+(n) tin đồn, lời đồn
+null
+(n) sự chạy, cuộc chạy đua
+null
+(n) người chạy
+null
+(adj) (thuộc) nông thôn, vùng nông thôn
+null
+(v) (n) xông lên, lao vào, xô đẩy; sự xông lên, sự lao vào, sự xô đẩy
+null
+(n) (v) bào tải; đóng bao, bỏ vào bao
+null
+(adj) buồn, buồn bã
+null
+(adv) một cách buồn bã, đáng buồn là, không may mà
+null
+(n) sự buồn rầu, sự buồn bã
+null
+(adj) an toàn, chắc chắn, đáng tin
+null
+(adv) an toàn, chắc chắn, đáng tin
+null
+(n) sự an toàn, sự chắc chăn
+null
+(v) (n) đi tàu, thuyền, nhổ neo; buồm, cánh buồm, chuyến đi bằng thuyền buồm
+null
+(n) sự đi thuyền
+null
+(n) thủy thủ
+null
+(n) sa lát (xà lách trộng dầu dấm); rau sống
+null
+(n) tiền lương
+null
+(n) việc bán hàng
+null
+(n) muối
+null
+(adj) chứ vị muối, có muối, mặn
+null
+(adj) pro(n) đều đều, đơn điệu; cũng như thế, vẫn cái đó
+null
+(n) mẫu, hàng mẫu
+null
+(n) cát
+null
+(n) sự làm cho thỏa mãn, toại nguyện; sự trả nợ, bồi thường
+null
+(v) làm thỏa mãn, hài lòng; trả (nợ), chuộc tội
+null
+(adj) cảm thấy hài lòng, vừa ý, thoả mãn
+null
+(adj) đem lại sự thỏa mãn, làm thỏa mãn, làm vừa ý
+null
+(n) nước xốt, nước chấm
+null
+(v) cứu, lưu
+null
+(n) sự cứu, sự tiết kiệm
+null
+(n) vảy (cá..)
+null
+(v) (n) làm kinh hãi, sợ hãi, dọa; sự sợ hãi, sự kinh hoàng
+null
+(adj) bị hoảng sợ, bị sợ hãi
+null
+(n) cảnh, phong cảnh
+null
+(n) (v) kế hoạch làm việc, bản liệt kê; lên thời khóa biểu, lên kế hoạch
+null
+(n) sự sắp xếp, sự phối hợp; kế hoạch thực hiện; lược đồ, sơ đồ
+null
+(n) đàn cá, bầy cá, trường học
+null
+(n) khoa học, khoa học tự nhiên
+null
+(adj) (thuộc) khoa học, có tính khoa học
+null
+(n) nhà khoa học
+null
+(n) cái kéo
+null
+(n) (v) điểm số, bản thắng, tỷ số; đạt được, thành công, cho điểm
+null
+(v) (n) cào, làm xước da; sự cào, sự trầy xước da
+null
+(v) (n) gào thét, kêu lên; tiếng thét, tiếng kêu to
+null
+(n) màn che, màn ảnh, màn hình; phim ảnh nói chung
+null
+(n) (v) đinh vít, đinh ốc; bắt vít, bắt ốc
+null
+(n) (v) hải cẩu; săn hải cẩu
+null
+(n) (v) sự tìm kiếm, sự thăm dò, sự điều tra; tìm kiếm, thăm dò, điều tra
+null
+(n) mùa
+null
+(n) ghế, chỗ ngồi
+null
+(adv) (n) thứ hai, ở vị trí thứ 2, thứ nhì; người về nhì
+null
+(adj) trung học, thứ yếu
+null
+(adj) (n) bí mật; điều bí mật
+null
+(adv) bí mật, riêng tư
+null
+(n) thư ký
+null
+(n) mục, phần
+null
+(n) khu vực, lĩnh vực
+null
+(adj) (v) chắc chắn, đảm bảo; bảo đảm, giữ an ninh
+null
+(n) sự an toàn, sự an ninh
+null
+(v) nhìn, nhìn thấy, quan sát
+null
+(n) hạt, hạt giống
+null
+(v) tìm, tìm kiếm, theo đuổi,đòi hỏi
+null
+(v) có vẻ như, dường như
+null
+(v) chọn lựa, chọn lọc
+null
+(n) sự lựa chọn, sự chọc lọc
+null
+(n) bản thân mình
+null
+(v) bán
+null
+(n) thượng nghi viện, ban giám hiệu
+null
+(n) thượng nghị sĩ
+null
+(v) gửi, phái đi
+null
+(adj) (n) nhiều tuổi hơn, dành cho trẻ em trên 11t, sinh viên năm cuối trường trung học, cao đẳng
+null
+(n) giác quan, tri giác, cảm giác
+null
+(adj) có óc xét đoán; hiểu, nhận biết được
+null
+(adj) dễ bị thương, dễ bị hỏng; dễ bị xúc phạm
+null
+(n) câu
+null
+(adj) (v) khác nhau, riêng biệt; làm rời, tách ra, chia tay
+null
+(adj) ly thân
+null
+(adv) không cùng nhau, thành người riêng, vật riêng
+null
+(n) sự chia cắt, phân ly, sự chia tay, ly thân
+null
+(n) loạt, dãy, chuỗi
+null
+(adj) đứng đắn, nghiêm trang
+null
+(adv) đứng đắn, nghiêm trang
+null
+(n) người hầu, đầy tớ
+null
+(v) phục vụ, phụng sự
+null
+(n) sự phục vụ, sự hầu hạ
+null
+(n) buổi họp, phiên họp, buổi, phiên
+null
+(n) (v) bộ, bọn, đám, lũ; đặt để, bố trí
+null
+(v) giải quyết, dàn xếp, hòa giải, đặt, bố trí
+null
+(adj) pro(n) nhiều hơn ba; vài; dăm ba, riêng; cá nhân
+null
+(adj) khắt khe, gay gắt; giản dị, mộc mạc
+null
+(adv) khắt khe, gay gắt; giản dị, mộc mạc
+null
+(v) may, khâu
+null
+(n) sự khâu, sự may vá
+null
+(n) giới, giống
+null
+(adj) giới tính, các vấn đề sinh lý
+null
+(adv) giới tính, các vấn đề sinh lý
+null
+(n) bóng, bóng tối
+null
+(n) bóng, bóng tối, bóng râm, bóng má
+null
+(v) (n) rung, lắc, giũ; sự rung, sự lắc, sự giũ
+null
+(v) dự đoán tương lai: sẽ
+null
+(adj) nông, cạn
+null
+(n) sự xấu hổ, thẹn thùng, sự ngượng
+null
+(n) (v) hình, hình dạng, hình thù
+null
+(adj) có hình dáng được chỉ rõ
+null
+(v) (n) đóng góp, tham gia, chia sẻ; phần đóng góp, phần tham gia, chia sẻ
+null
+(adj) sắc, nhọn, bén
+null
+(adv) sắc, nhọn, bén
+null
+(v) cạo (râu), bào, đẽo (gỗ)
+null
+(n) con cừu
+null
+(n) chăn, khăn trải giường; lá, tấm, phiến, tờ
+null
+(n) kệ, ngăn, giá
+null
+(n) vỏ, mai; vẻ bề ngoài
+null
+(n) (v) sự nương tựa, sự che chở, sự ẩn náu; che chở, bảo vệ
+null
+(v) (n) đổi chỗ, dời chỗ, chuyển, giao; sự thay đổi, sự luân phiên
+null
+(v) chiếu sáng, tỏa sáng
+null
+(adj) sáng chói, bóng
+null
+(n) tàu, tàu thủy
+null
+(n) áo sơ mi
+null
+(v) (n) sự đụng chạm, va chạm, sự kích động, sự choáng
+null
+(adj) gây ra căm phẫn, tồi tệ, gây kích động
+null
+(adj) bị kích động, bị va chạm, bị sốc
+null
+(n) giày
+null
+(v) vụt qua, chạy qua, ném, phóng, bắn; đâm ra, trồi ra
+null
+(n) sự bắn, sự phóng đi
+null
+(n) (v) cửa hàng; đi mua hàng, đi chợ
+null
+(n) sự mua sắm
+null
+(adj) ngắn, cụt
+null
+(adv) trong thời gian ngắn, sớm
+null
+(n) đạn, viên đạn
+null
+(n) vai
+null
+(v) (n) hò hét, reo hò; sự la hét, sự hò reo
+null
+(v) (n) biểu diễn, trưng bày; sự biểu diễn, sự bày tỏ
+null
+(n) vòi hoa sen, sự tắm vòi hoa sen
+null
+(v) (adj) đóng, khép, đậy; tính khép kín
+null
+(adj) nhút nhát, e thẹn
+null
+(adj) ốm, đau, bệnh
+null
+bị ốm
+null
+buồn nôn
+null
+(n) mặt, mặt phẳng
+null
+(adj) (adv) ngang, từ một bên; sang bên
+null
+(n) cảnh đẹp; sự nhìn
+null
+(n) (v) dấu, dấu hiệu, kí hiệu; đánh dấu, viết ký hiệu
+null
+(n) (v) dấu hiệu, tín hiệu; ra hiệu, báo hiệu
+null
+(n) chữ ký
+null
+(adj) nhiều ý nghĩa, quan trọng
+null
+(adv) đáng kể
+null
+(n) sự im lặng, sự yên tĩnh
+null
+(adj) im lặng, yên tĩnh
+null
+(n) tơ, chỉ, lụa
+null
+(adj) ngớ ngẩn, ngu ngốc, khờ dại
+null
+(n) (adj) bạc, đồng bạc; làm bằng bạc, trắng như bạc
+null
+(adj) giống như, tương tự như
+null
+(adv) tương tự, giống nhau
+null
+(adj) đơn, đơn giản, dễ dàng
+null
+(adv) một cách dễ dàng, giản dị
+null
+(adv) từ, từ khi; từ khi, từ lúc đó; từ đó, từ lúc ấy
+null
+(adj) thật thà, thẳng thắng, chân thành
+null
+(adv) một cách chân thành
+null
+bạn chân thành của anh, chị.. (viết ở cuối thư)
+null
+(v) hát, ca hát
+null
+(n) sự hát, tiếng hát
+null
+(n) ca sĩ
+null
+(adj) đơn, đơn độc, đơn lẻ
+null
+(v) chìm, lún, đắm
+null
+(n) xưng hô lịch sự Ngài, Ông
+null
+(v) ngồi
+null
+ngồi xuống
+null
+(n) chỗ, vị trí
+null
+(n) hoàn cảnh, địa thế, vị trí
+null
+(n) cỡ
+null
+đã được định cỡ
+null
+(adj) tài giỏi, khéo tay
+null
+(adv) tài giỏi, khéo tay
+null
+(n) kỹ năng, kỹ sảo
+null
+(adj) có kỹ năng, có kỹ sảo, khẻo tay; có kinh nghiệm, lành nghề
+null
+(n) da, vỏ
+null
+(n) váy, đầm
+null
+(n) trời, bầu trời
+null
+(v) (n) ngủ; giấc ngủ
+null
+(n) tay áo, ống tay
+null
+(n) (v) miếng, lát mỏng; cắt ra thành miếng mỏng, lát mỏng
+null
+(v) trượtc, chuyển động nhẹ, lướt qua
+null
+(adj) mỏng manh, thon, gầy
+null
+(adv) mảnh khảnh, mỏng manh, yếu ớt
+null
+(v) trượt, tuột, trôi qua, chạy qua
+null
+(n) (v) dốc, đường dốc, độ dốc; nghiêng, dốc
+null
+(adj) chậm, chậm chạp
+null
+(adv) một cách chậm chạp, chậm dần
+null
+(adj) mạnh, ác liệt,khéo léo, nhanh trí
+null
+(v) (n) đập, vỡ tan thành mảnh; sự đập, vỡ tàn thành mảnh
+null
+(v) (n) ngửi; sự ngửi, khứu giác
+null
+(v) (n) cười, mỉm cười; nụ cười, vẻ tươi cười
+null
+(n) (v) khói, hơi thuốc; hút thuốc, bốc khói, hơi
+null
+(n) sự hút thuốc
+null
+(adj) nhẵn, trơn, mượt mà
+null
+(adv) một cách êm ả, trôi chảy
+null
+(n) con rắn; người nham hiểm, xảo trá
+null
+(n) (v) tuyết; tuyết rơi
+null
+(adv) (conj) như vậy, như thế; vì thế, vì vậy, vì thế cho nên
+null
+để, để cho, để mà
+null
+(n) xà phòng
+null
+(adj) có tính xã hội
+null
+(adv) có tính xã hội
+null
+(n) xã hội
+null
+(n) tất ngắn, miếng lót giày
+null
+(adj) mềm, dẻo
+null
+(adv) một cách mềm dẻo
+null
+(n) phần mềm (máy tính)
+null
+(n) đất trồng; vết bẩn
+null
+(n) lính, quân nhân
+null
+(adj) (n) rắn; thể rắn, chất rắn
+null
+(n) sự giải quyết, giải pháp
+null
+(v) giải, giải thích, giải quyết
+null
+pro(n) một it, một vài
+null
+(adv) không biết làm sao, bằng cách này hay cách khác
+null
+pro(n) người nào đó
+null
+pro(n) một điều gì đó, một việc gì đó, một cái gì đó
+null
+(adv) thỉnh thoảng, đôi khi
+null
+(adv) đến mức độ nào đó, hơi, một chút
+null
+(adv) nơi nào đó. đâu đó
+null
+(adv) sớm, chẳng bao lâu nữa
+null
+ngay khi
+null
+(adj) đau, nhức
+null
+(adj) xin lỗi, lấy làm tiếc, lấy làm buồn
+null
+(n) (v) thứ, hạng loại; lựa chọn, sắp xếp, phân loại
+null
+(n) tâm hồn, tâm trí, linh hồn
+null
+(n) (v) âm thanh; nghe
+null
+(n) xúp, canh, cháo
+null
+(adj) chua, có vị giấm
+null
+(n) nguồn
+null
+(n) (adj) (adv) phương Nam, hướng Nam; ở phía Nam
+null
+(adj) thuộc phương Nam
+null
+(n) khoảng trống, khoảng cách
+null
+(adj) (n) thừa thãi, dự trữ, rộng rãi; đồ dự trữ, đồ dự phòng
+null
+(v) nói
+null
+(adj) nói theo 1 cách nào đó
+null
+(n) người nói, người diễn thuyết
+null
+(adj) đặc biệt, riêng biệt
+null
+(adv) đặc biệt, riêng biệt
+null
+(n) chuyên gia, chuyên viên
+null
+(adj) đặc trưng, riêng biệt
+null
+(adv) đặc trưng, riêng biệt
+null
+(n) sự nói, khả năng nói, lời nói, cách nói, bài nói
+null
+(n) tốc độ, vận tốc
+null
+(v) (n) đánh vần; sự thu hút, sự quyến rũ, say mê
+null
+(n) sự viết chính tả
+null
+(v) tiêu, xài
+null
+(n) gia vị
+null
+(adj) có gia vị
+null
+(n) con nhện
+null
+(v) quay, quay tròn
+null
+(n) tinh thần, tâm hồn, linh hồn
+null
+(adj) (thuộc) tinh thần, linh hồn
+null
+(n) sự giận, sự hận thù
+null
+mặc dù, bất chấp
+null
+(v) (n) chẻ, tách, chia ra; sự chẻ, sự tách, sự chia ra
+null
+(v) cướp, cướp đọat
+null
+(n) cái thìa
+null
+(n) dấu, đốm, vết
+null
+(n) (v) máy, ống, bình phụt, bơm, phun; bơm, phun, xịt
+null
+(v) trải, căng ra, bày ra; truyền bá
+null
+(n) mùa xuân
+null
+(adj) (n) vuông, vuông vắn; dạng hình vuông, hình vuông
+null
+(v) (n) ép, vắt, xiết; sự ép, sự vắt, sự xiết
+null
+(adj) (n) ổn định, bình tĩnh, vững vàng; chuồng ngưa
+null
+(n) gậy quyền, quyền trượng, nhân viên, cán bộ
+null
+(n) tầng, bệ
+null
+(n) bậc thang
+null
+(n) (v) tem; dán tem
+null
+(v) (n) đứng, sự đứng
+null
+đứng dậy
+null
+(n) (adj) tiêu chuẩn, chuẩn, mãu; làm tiêu chuẩn, phù hợp với tiêu chuẩn
+null
+(n) (v) ngôi sao, dán sao, trang trí hình sao, đánh dấu sao
+null
+(v) (n) nhìn chằm chằm; sự nhìn chằm chằm
+null
+(v) (n) bắt đầu, khởi động; sự bắt đầu, sự khởi đầu, khởi hành
+null
+(n) (adj) (v) nhà nước, quốc gia, chính quyền; (thuộc) nhà nước, phát biểu
+null
+(n) sự bày tỏ, sự phát biểu; sự tuyên bố, sự trình bày
+null
+(n) trạm, điểm, đồn
+null
+(n) tượng
+null
+(n) tình trạng, địa vị, thân phận
+null
+(v) (n) ở lại, lưu lại; sự ở lại, sự lưu lại
+null
+(adj) vững chắc, vững vàng, kiến định
+null
+(adv) vững chắc, vững vàng, kiên định
+null
+(adj) không đúng mực, không chắc, không vững
+null
+(v) ăn cắp, ăn trộm
+null
+(n) hơi nước
+null
+(n) thép, ngành thép
+null
+(adj) dốc, dốc đứng
+null
+(adv) dốc, cheo leo
+null
+(v) lái (tàu, ô tô...), hướng dẫn; hướng theo
+null
+(n) (v) bước; bước, bước đi
+null
+(v) (n) đâm, thọc, chọc, cắm, dính; cái gậy, qua củi, cán
+null
+đòi, đạt được cái gì
+null
+(adj) dính, nhớt
+null
+(adj) cứng, cứng rắn, kiên quyết
+null
+(adv) cứng, cứng rắn, kiên quyết
+null
+(adv) (adj) đứng yên; vẫn, vẫn còn
+null
+(v) (n) châm, chích, đốt; ngòi, vòi (ong, muỗi), nọc (rắn); sự châm, chích
+null
+(v) khuấy, đảo
+null
+(n) kho sự trữ, hàng dự trữ, vốn
+null
+(n) dạ dày
+null
+(n) đá
+null
+(v) (n) dừng, ngừng, nghỉ, thôi; sự dừng, sự ngừng, sự đỗ lại
+null
+(n) (v) cửa hàng, kho hàng; tích trữ, cho vào kho
+null
+(n) cơn giông, bão
+null
+(n) chuyện, câu chuyện
+null
+(n) bếp lò, lò sưởi
+null
+(adv) (adj) thẳng, không cong
+null
+(n) sự căng thẳng, sự căng
+null
+(adj) xa lạ, chưa quen
+null
+(adv) lạ, xa lạ, chưa quen
+null
+(n) người lạ
+null
+(n) chiến lược
+null
+(n) dòng suối
+null
+(n) phố, đườmg phố
+null
+(n) sức mạnh, sức khỏe
+null
+(n) (v) sự căng thẳng; căng thẳng, ép, làm căng
+null
+(adj) bị căng thẳng, bị ép, bị căng
+null
+(v) căng ra, duỗi ra, kéo dài ra
+null
+(adj) nghiêm khắc, chặt chẽ, khắt khe
+null
+(adv) một cách nghiêm khắc
+null
+(v) (n) đánh, đập, bãi công, đình công; cuộc bãi công, cuộc đình công
+null
+(adj) nổi bật, gây ấn tượng
+null
+(n) dây, sợi dây
+null
+(v) (n) cởi, lột (quần áo); sự cởi quần áo
+null
+(n) sọc, vằn, viền
+null
+(adj) có sọc, có vằn
+null
+(n) (v) cú đánh, cú đòn; cái vuốt ve, sự vuốt ve; vuốt ve
+null
+(adj) khỏe, mạnh, bền, vững, chắc chắn
+null
+(adv) khỏe, chắc chắn
+null
+(n) kết cấu, cấu trúc
+null
+(v) (n) đấu tranh; cuộc đấu tranh, cuộc chiến đấu
+null
+(n) xưởng phim, trường quay; phòng thu
+null
+(n) (v) sự học tập, sự nghiên cứu; học tập, nghiên cứu
+null
+(n) chất liệu, chất
+null
+(adj) ngu ngốc, ngu đần, ngớ ngẩn
+null
+(n) phong cách, kiểu, mẫu, loại
+null
+(n) chủ đề, đề tài; chủ ngữ
+null
+(n) chất liệu; bản chất; nội dung
+null
+(adj) thực tế, đáng kể, quan trọng
+null
+(adv) về thực chất, về căn bản
+null
+(n) (v) người, vật thay thế; thay thế
+null
+(v) nối tiếp, kế tiếp; kế nghiệp, kế vị
+null
+(n) sự thành công, sự thành đạt
+null
+(adj) thành công, thắng lợi, thành đạt
+null
+(adv) thành công, thắng lợi, thành đạt
+null
+(adj) không thành công, thất bại
+null
+pro(n) như thế, như vậy, như là
+null
+đến nỗi, đến mức
+null
+(v) bú, hút; hấp thụ, tiếp thu
+null
+(adj) thình lình, đột ngột
+null
+(adv) thình lình, đột ngột
+null
+(v) chịu đựng, chịu thiệt hại, đau khổ
+null
+(n) sự đau đớn, sự đau khổ
+null
+(adj) đủ, thích đáng
+null
+(adv) đủ, thích đáng
+null
+(n) đường
+null
+(v) đề nghị, đề xuất; gợi
+null
+(n) sự đề nghị, sự đề xuất, sự khêu gợi
+null
+(n) (v) bộ com lê, trang phục; thích hợp, quen, hợp với
+null
+(adj) hợp, phù hợp, thích hợp với
+null
+(adj) hợp, phù hợp, thích hợp với
+null
+(n) va li
+null
+(n) tổng, toàn bộ
+null
+(n) bản tóm tắt
+null
+(n) mùa hè
+null
+(n) (adj) cao hơn, mạnh hơn,người cấp trên,thượng cấp
+null
+(n) siêu thị
+null
+(n) (v) sự cung cấp, nguồn cung cấp; cung cấp, đáp ứng, tiếp tế
+null
+(n) (v) sự chống đỡ, sự ủng hộ; chống đỡ, ủng hộ
+null
+(n) vật chống đỡ; người cổ vũ, người ủng hộ
+null
+(v) cho rằng, tin rằng, nghĩ rằng
+null
+(adj) (adv) chắc chắn, xác thực
+null
+chắc chắn, làm cho chắc chắn
+null
+(adv) chắc chắn
+null
+(n) mặt, bề mặt
+null
+(n) họ
+null
+(n) (v) sự ngạc nhiên, sự bất ngờ; làm ngạc nhiên
+null
+(adj) làm ngạc nhiên, làm bất ngờ
+null
+(adv) làm ngạc nhiên, làm bất ngờ
+null
+(adj) ngạc nhiên
+null
+(v) vây quanh, bao quanh
+null
+(adj) bao quanh, vây quanh; ngoại vi
+null
+(n) vùng xung quanh, môi trường xung quanh
+null
+(n) (v) sự nhìn chung, sự khảo sát; quan sát, nghiên cứu
+null
+(v) sống lâu hơn, tiếp tục sống, sống sót
+null
+(v) (n) nghi ngờ, hoài nghi; người khả nghi, người bị tình nghi
+null
+(n) sự nghi ngờ, sự ngờ vực
+null
+(adj) có sự nghi ngờ, tỏ ra nghi ngờ, khả nghi
+null
+(v) nuốt, nuốt chửng
+null
+(v) chửi rủa, nguyền rủa; thề, hứa
+null
+(n) lời thề, lời nguyền rủa, lời thề hứa
+null
+(n) (v) mồ hôi; đổ mồ hô
+null
+(n) người ra mồ hôi,kẻ bóc lột lao động
+null
+(v) quét
+null
+(adj) (n) ngọt, có vị ngọt; sự ngọt bùi, đồ ngọt
+null
+(v) phồng, sưng lên
+null
+(n) sự sưng lên, sự phồng ra
+null
+(adj) sưng phồng, phình căng
+null
+(v) bơi lội
+null
+(n) sự bơi lội
+null
+(n) bể nước
+null
+(n) (v) sự đu đưa, lúc lắc; đánh đu, đu đưa, lúc lắc
+null
+(n) (v) công tắc, roi; tắt, bật, đánh bằng gậy, roi
+null
+ngắt điện
+null
+bật điện
+null
+(v) phồng lên, sưng lên
+null
+(n) biểu tượng, ký hiệu
+null
+(adj) đồng cảm, đáng mến, dễ thương
+null
+(n) sự đồng cảm, sự đồng ý
+null
+(n) hệ thống, chế độ
+null
+(n) cái bàn
+null
+(n) tấm, bản, thẻ phiến
+null
+(v) (n) giải quyết, khắc phục, bàn thảo; đồ dùng,dụng cụ
+null
+(n) đuôi, đoạn cuối
+null
+(v) sự cầm nắm, sự lấy
+null
+cởi, bỏ cái gì, lấy đi cái gì
+null
+chở, chuyển cái gì; tiếp quản, kế tục cái gì
+null
+(v) (n) nói chuyện, trò chuyện; cuộc trò chuyện, cuộc thảo luận
+null
+(n) thùng, két, bể
+null
+(v) (n) mở vòi, đóng vồi; vòi, khóa
+null
+(n) băng, băng ghi âm; dải, dây
+null
+(n) bia, mục tiêu, đích
+null
+(n) nhiệm vụ, nghĩa vụ, bài tập, công tác, công việc
+null
+(n) (v) vị, vị giác; nếm
+null
+(n) (v) thuế; đánh thuế
+null
+(n) cây chè, trà, chè
+null
+(v) dạy
+null
+(n) sự dạy, công việc dạy học
+null
+(n) giáo viên
+null
+(n) đội, nhóm
+null
+(v) (n) xé, làm rắch; chỗ rách, miếng xe; nước mắt
+null
+(adj) (thuộc) kỹ thuật, chuyên môn
+null
+(n) kỹ sảo, kỹ thuật, phương pháp kỹ thuật
+null
+(n) kỹ thuật học, công nghệ học
+null
+(n) (v) máy điện thoại, gọi điện thoại
+null
+(n) vô tuyến truyền hình
+null
+(v) nói, nói với
+null
+(n) nhiệt độ
+null
+(n) tạm thời, nhất thời, lâm thời
+null
+(adv) tính chất tạm thời, nhất thời
+null
+(v) trông nom, chăm sóc, giữ gìn, hầu hạ
+null
+(n) xu hướng, chiều hướng, khuynh hướng
+null
+(n) sự căng, độ căng, tình trạng căng
+null
+(n) lều, rạp
+null
+(n) giới hạn, kỳ hạn, khóa, kỳ học
+null
+(adj) khủng khiếp, ghê sợ
+null
+(adv) tồi tệ, không chịu nổi
+null
+(n) (v) bài kiểm tra, sự thử nghiệm, xét nghiệm; kiểm tra
+null
+(n) nguyên văn, bản văn, chủ đề, đề tài
+null
+(conj) hơn
+null
+(v) cám ơn
+null
+(n) sự cảm ơn, lời cảm ơn
+null
+pro(n) (conj) người ấy, đó, vật ấy, đó; rằng, là
+null
+cái, con, người, ấy này, duy nhất
+null
+(n) rạp hát, nhà hát
+null
+(n) đề tài, chủ đề
+null
+pro(n) tự chúng, tự họ, tự
+null
+(adv) khi đó, lúc đó, tiếp đó
+null
+(n) lý thuyết, học thuyết
+null
+(adv) ở nơi đó, tại nơi đó
+null
+(adv) bởi vậy, cho nên, vì thế
+null
+(adj) dày; đậm
+null
+(adv) dày; dày đặc; thành lớp dày
+null
+(n) tính chất dày, độ dày, bề dày
+null
+(n) kẻ trộm, kẻ cắp
+null
+(adj) mỏng, mảnh
+null
+(n) cái, đồ, vật
+null
+(v) nghĩ, suy nghĩ
+null
+(n) sự suy nghĩ, ý nghĩ
+null
+(adj) khát, cảm thấy khát
+null
+pro(n) cái này, điều này, việc này
+null
+(adj) cẩn thận, kỹ lưỡng
+null
+(adv) kỹ lưỡng, thấu đáo, triệt để
+null
+(adv) dù, dù cho, mặc dù; mặc dù, tuy nhiên, tuy vậy
+null
+(n) sự suy nghĩ, khả năng suy nghĩ; ý nghĩ, tư tưởng, tư duy
+null
+(n) chỉ, sợi chỉ, sợi dây
+null
+(n) sự đe dọa, lời đe dọa
+null
+(v) dọa, đe dọa
+null
+(adj) sự đe dọa, sự hăm dọa
+null
+(n) cổ, cổ họng
+null
+(adv) qua, xuyên qua
+null
+(adv) khắp nơi, từ đầu đến cuối, suốt
+null
+(v) ném, vứt, quăng
+null
+ném đi, vứt đi, liệng đi
+null
+(n) ngón tay cái
+null
+(adv) như vậy, như thế, do đó
+null
+(n) vé
+null
+(adj) (v) sạch sẽ, ngăn nắp, gọn gàng
+null
+(adj) không gọn gàng, không ngăn nắp, lộn xộn
+null
+(v) (n) buộc, cột, trói; dây buộc, dây trói, dây giày
+null
+có quan hệ mật thiết, gắn chặt
+null
+(adj) (adv) kín, chặt, chật
+null
+(adv) chặc chẽ, sít sao
+null
+cho đến khi, tới lúc mà
+null
+(n) thời gian, thì giờ
+null
+(n) kế hoạch làm việc, thời gian biểu
+null
+(n) thiếc
+null
+(adj) rất nhỏ, nhỏ xíu
+null
+(n) (v) đầu, mút, đỉnh, chóp; bịt đầu, lắp đầu vào
+null
+(v) (n) làm mệt mỏi, trở nên mệt nhọc; lốp, vỏ xe
+null
+(adj) sự mệt mỏi, sự mệt nhọc
+null
+(adj) mệt, muốn ngủ, nhàm chán
+null
+(n) đầu đề, tiêu đề; tước vị, tư cách
+null
+(n) ngón chân (người)
+null
+(adv) cùng nhau, cùng với
+null
+(n) nhà vệ sinh; sự trang điểm (rửa mặt, ăn mặc, chải tóc...)
+null
+(n) cà chua
+null
+(adv) (n) vào ngày mai; ngày mai
+null
+(n) tấn
+null
+(n) tiếng, giọng
+null
+(n) lưỡi
+null
+(n) tấn
+null
+(n) dụng cụ, đồ dùng
+null
+(n) răng
+null
+(n) (adj) chóp, đỉnh; đứng đầu, trên hết
+null
+(n) đề tài, chủ đề
+null
+(adj) (n) tổng cộng, toàn bộ; tổng số, toàn bộ số lượng
+null
+(adv) hoàn toàn
+null
+(v) (n) sờ, mó, tiếp xúc; sự sờ, sự mó, sự tiếp xúc
+null
+(adj) chắc, bền, dai
+null
+(n) (v) cuộc đi du lịch, cuộc đi dạo, chuyến du lịch; đi du lịch
+null
+(n) khách du lịch
+null
+(prep) theo hướng, về hướng
+null
+(n) khăn tắm, khăn lau
+null
+(n) tháp
+null
+(n) thị trấn, thị xã, thành phố nhỏ
+null
+(n) (adj) đồ chơi, đồ trang trí; thể loại đồ chơi
+null
+(v) (n) phát hiện, tìm thấy, vạch, chỉ ra, phác họa; dấu, vết
+null
+(n) phần của đĩa; đường mòn, đường đua
+null
+(n) (v) thương mại, buôn bán; buôn bán, trao đổi
+null
+(n) sự kinh doanh, việc mua bán
+null
+(n) truyền thống
+null
+(adj) theo truyền thống, theo lối cổ
+null
+(adv) (thuộc) truyền thống, là truyền thống
+null
+(n) sự đi lại, sự giao thông, sự chuyển động
+null
+(n) (v) xe lửa, tàu hỏa; dạy, rèn luyện, đào tạo
+null
+(n) sự dạy dỗ, sự huấn luyện, sự đào tạo
+null
+(v) (n) dời, di chuyển; sự di chuyển, sự dời chỗ
+null
+(v) thay đổi, biến đổi
+null
+(v) dịch, biên dịch, phiên dịch
+null
+(n) sự dịch
+null
+(adj) trong suốt; dễ hiểu, sáng sủa
+null
+(v) (n) sự vận chuyển, sự vận tải;chuyên chở, phương tiện đi lại
+null
+(n) (v) đồ đạc, hành lý; bẫy, cạm bãy; bẫy, giữ, chặn lạ
+null
+(v) (n) đi lại, đi du lịch, di chuyển; sự đi, những chuyến đi
+null
+(n) người đi, lữ khách
+null
+(v) đối xử, đối đãi, cư xử
+null
+(n) sự đối xử, sự đối đãi, sự cư xử (với người nào)
+null
+(n) phương hướng, xu hướng, chiều hướng
+null
+(n) sự thử nghiệm, cuộc thử nghiệm
+null
+(n) hình tam giác
+null
+(n) (v) mưu mẹo, thủ đoạn, trò lừa gạt; lừa, lừa gạt
+null
+(n) (v) cuộc dạo chơi, cuộc du ngoạn; đi dạo, du ngoạn
+null
+(adj) nhiệt đới
+null
+(n) điều lo lắng, điều muộn phiền
+null
+(n) quần
+null
+(n) rau quả tươi
+null
+(adj) đúng, thật
+null
+(adv) đúng sự thật, đích thực, thực sự
+null
+lời kết thúc thư (bạn chân thành của...)
+null
+(n) (v) niềm tin, sự phó thác; tin, tin cậy, phó thác
+null
+(n) sự thật
+null
+(v) thử, cố gắng
+null
+(n) ống, tuýp
+null
+thứ 3
+null
+(n) (v) điệu, giai điệu; lên dây, so dây (đàn)
+null
+(n) đường hầm, hang
+null
+(v) (n) quay, xoay, vặn; sự quay, vòng quay
+null
+(adv) hai lần
+null
+(n) (adj) sinh đôi, tạo thành cặp; cặp song sinh
+null
+(v) (n) xoắn, cuộn, quắn; sự xoắn, vòng xoắn
+null
+(adj) được xoắn, được cuộn
+null
+(n) (v) loại, kiểu, mẫu; phân loại, xếp loại
+null
+(adj) tiêu biểu, điển hình, đặc trưng
+null
+(adv) điển hình, tiêu biểu
+null
+(n) lốp, vỏ xe
+null
+(adj) xấu xí, xấu xa
+null
+(adj) cuối cùng, sau cùng
+null
+(adv) cuối cùng, sau cùng
+null
+(n) ô, dù
+null
+(adj) không thể, không có khẳ năng
+null
+(adj) không thể chấp nhận
+null
+(adj) không chắc chắn, khôn biết rõ ràng
+null
+(n) chú, bác
+null
+(adj) bất tiện, không tiện lợi
+null
+(adj) bất tỉnh, ngất đi
+null
+(adj) không bị kiềm chế, không bị kiểm tra
+null
+(adv) dưới, ở dưới; ở phía dưới, về phía dưới
+null
+(adj) (adv) dưới mặt đất, ngầm dưới đất; ngầm
+null
+(prep) (adv) dưới, bên dưới
+null
+(v) hiểu, nhận thức
+null
+(n) trí tuệ, sự hiểu biết
+null
+(adj) (adv) ở dưới mặt nước, dưới mặt nước
+null
+tháo, gỡ, xóa, hủy bỏ
+null
+(n) quần lót
+null
+(adj) không dùng, thất nghiệp
+null
+(n) sự thất nghiệp, tình trạng thất nghiệp
+null
+(adj) bất ngờ, đột ngột, gây ngạc nhiên
+null
+(adv) bất ngờ, đột ngột, gây ngạc nhiên
+null
+(adj) gian lận, không công bằng; bất lợi
+null
+(adv) gian lận, không công bằng; bất lợi
+null
+(adj) không may, rủi ro, bất hạnh
+null
+(adv) một cách đáng tiếc, một cách không may
+null
+đối địch, không thân thiện
+null
+(n) nỗi buồn, sự bất hạnh
+null
+(adj) buồn rầu, khốn khổ
+null
+(n) (adj) đồng phục; đều, giống nhau, đồng dạng
+null
+(adj) không quan trọng
+null
+(n) liên hiệp, sự đoàn kết, sự hiệp nhất
+null
+(adj) độc nhất vô nhị
+null
+(n) đơn vị
+null
+(v) liên kết, hợp nhất, hợp lại, kết thân
+null
+(adj) liên minh, đoàn kết, chung, thống nhất
+null
+(n) vũ trụ
+null
+(n) trường đại học
+null
+(adj) không tốt, độc ác, tàn nhẫn
+null
+(adj) không biết, không được nhận ra
+null
+(conj) trừ phi, trừ khi, nếu không
+null
+không giống, khác
+null
+(adj) không có thể xảy ra, không chắc chắn; không có thực
+null
+(v) tháo, dỡ
+null
+(adj) không gặp may, bất hạnh
+null
+(adj) không cần thiết, không mong muốn
+null
+(adj) không dễ chịu, khó chịu
+null
+(adj) vô lý
+null
+(adj) không đúng mực, không chắc, không vững
+null
+(adj) không thành công, thất bại
+null
+(adj) không gọn gàng, không ngăn nắp, lộn xộn
+null
+(conj) (prep) trước khi, cho đến khi
+null
+hiếm, khác thường
+null
+(adj) không muốn làm điều gì; miễn cưỡng; bất đắc dĩ
+null
+(adv) miễn cưỡng; bất đắc dĩ
+null
+(adv) (prep) ở trên, lên trên, lên
+null
+(prep) trên, ở trên
+null
+(adj) cao hơn
+null
+(v) (adj) làm đổ, đánh đổ
+null
+(adj) tính đánh đổ, làm đổ
+null
+(adv) lộn ngược
+null
+(adv) (adj) (n) ở tên gác, cư ngụ ở tầng gác; tầng trên
+null
+(adj) lên, hướng lên, đi lên
+null
+(adj) (thuộc) thành phố, khu vực
+null
+(v) (n) thúc, giục, giục giã; sự thúc đẩy, sự thôi thúc
+null
+(adj) gấp, khẩn cấp
+null
+(v) (n) sử dụng, dùng; sự dùng, sự sử dụng
+null
+(adj) đã dùng, đã sử dụng
+null
+sử dụng cái gì, sử dụng để làm cái gì
+null
+sử dụng gì, sử dụng để làm gì
+null
+(v) đã quen dùng
+null
+(adj) hữu ích, giúp ích
+null
+(adj) vô ích, vô dụng
+null
+(n) người dùng, người sử dụng
+null
+(adj) thông thường, thường dùng
+null
+(adv) thường thường
+null
+(adj) hiếm, khác thường, đáng chú ý
+null
+(adv) cực kỳ, khác thường
+null
+(n) kỳ nghỉ hè, kỳ nghỉ lễ; ngày nghỉ, ngày lễ
+null
+(adj) chắc chắn, hiệu quả, hợp lý
+null
+(n) thung lũng
+null
+(adj) có giá trị lớn, đáng giá
+null
+(n) (v) giá trị, ước tính, định giá
+null
+(n) tiền đội, quân tiên phong; xe tải
+null
+(n) sự biến đổi, sự thay đổi mức độ, sự khác nhau
+null
+(n) sự đa dạng, trạng thái khác nhau
+null
+(adj) khác nhau, thuộc về nhiều loại
+null
+(v) thay đổi, làm cho khác nhau, biến đổi
+null
+(adj) thuộc nhiều loại khác nhau, những vẻ đa dạng
+null
+(adj) rộng lớn, mênh mông
+null
+(n) rau, thực vật
+null
+(n) xe cộ
+null
+(n) (v) sự án kinh doanh, công việc kinh doanh; liều, mạo hiểm, cả gan
+null
+(n) bản dịch sang một ngôn ngữ khác
+null
+(adj) thẳng đứng, đứng
+null
+(prep) qua, theo đường
+null
+(n) nạn nhân
+null
+(n) chiến thắng
+null
+(n) video
+null
+(n) (v) sự nhìn, tầm nhìn; nhìn thấy, xem, quan sát
+null
+(n) làng, xã
+null
+(n) sự ác liệt, sự dữ dội; bạo lực
+null
+(adj) mãnh liệt, mạnh mẽ, hung dữ
+null
+(adv) mãnh liệt, dữ dội
+null
+(adv) thực sự, hầu như, gần như
+null
+(n) vi rút
+null
+(adj) hữu hình, thấy được
+null
+(n) sự nhìn, thị lực
+null
+(v) (n) đi thăm hỏi, đến chơi, tham quan; sự đi thăm,
+null
+(n) khách, du khách
+null
+(adj) (thuộc) sự sống, cần cho sự sống
+null
+(n) từ vựng
+null
+(n) tiếng, giọng nói
+null
+(n) thế tích, quyển, tập
+null
+(n) (v) sự bỏ phiếu, sự bầu cử; bỏ phiếu, bầu cử
+null
+(n) tiền lương, tiền công
+null
+(n) eo, chỗ thắt lưng
+null
+(v) chờ đợi
+null
+(n) người hầu bàn, người đợi, người trông chờ
+null
+(n) người nữ hầu bàn
+null
+(v) thức dậy, tỉnh thức
+null
+(v) (n) đi, đi bộ; sự đi bộ, sự đi dạo
+null
+(n) sự đi, sự đi bộ
+null
+(n) tường, vách
+null
+(n) cái ví
+null
+(v) (n) đi lang thang; sự đi lang thang
+null
+(v) muốn
+null
+(n) chiến tranh
+null
+(adj) (v) ấm, ấm áp; làm cho nóng, hâm nóng
+null
+(n) trạng thái ấm, sự ấm áp; hơi ấm
+null
+(v) báo cho biết, cảnh báo
+null
+(n) sự báo trước, lời cảnh báo
+null
+(v) rửa, giặt
+null
+(n) sự tắm rửa, sự giặt
+null
+(v) (n) (adj) lãng phí, uổng phí; vùng hoang vu, sa mạc; bỏ hoang
+null
+(v) (n) đồng hồ, nhìn, theo dõi, quan sát; sự canh gác, sự canh phòng
+null
+(n) nước
+null
+(n) (v) sóng, gợn nước; gợn sóng, uốn thành sóng
+null
+(n) đường, đường đi
+null
+(adj) yếu, yếu ớt
+null
+(n) tình trạng yếu đuối, yếu ớt
+null
+(n) sự giàu có, sự giàu sang
+null
+(n) vũ khí
+null
+(v) mặc, mang, đeo
+null
+(n) thời tiết
+null
+(n) mạng, lưới
+null
+(n) không gian liên tới với Internet
+null
+(n) lễ cưới, hôn lễ
+null
+(n) thứ 4
+null
+(n) tuần, tuần lễ
+null
+(n) cuối tuần
+null
+(adj) mỗi tuần một lần, hàng tuần
+null
+(v) cân, cân nặng
+null
+(n) trọng lượng
+null
+(v) (adj) (n) chào mừng, hoan nghênh
+null
+(adv) (adj) tốt, giỏi; ôi, may quá!
+null
+cũng, cũng như
+null
+(n) (adj) (adv) phía Tây, theo phía tây, về hướng tây
+null
+(adj) về phía tây, của phía tây
+null
+(adj) ướt, ẩm ướt
+null
+pro (n) bất cứ thứ gì, bất kể thứ gì
+null
+(n) bánh xe
+null
+(conj) bất cứ lúc nào, lúc nào
+null
+(conj) nhưng ngược lại, trong khi
+null
+(conj) ở bất cứ nơi nào, ở bất cứ nơi đâu
+null
+(conj) có..không; có... chăng; không biết có.. không
+null
+(conj) (n) trong lúc, trong khi; lúc, chốc, lát
+null
+(conj) trong lúc, trong khi
+null
+(v) (n) nói thì thầm, xì xào; tiếng nói thì thầm, tiếng xì xào
+null
+(n) (v) sự huýt sáo, sự thổi còi; huýt sáo, thổi còi
+null
+pro (n) ai, người nào, bất cứ ai, bất cứ người nào, dù ai
+null
+(adj) (n) bình an vô sự, không suy suyển, không hư hỏng; toàn bộ, tất cả, toàn thể
+null
+(adj) (n) trắng; màu trắng
+null
+pro (n) của ai
+null
+(adj) rộng, rộng lớn
+null
+(adv) nhiều, xa; rộng rãi
+null
+(n) tính chất rộng, bề rộng
+null
+(adj) dại, hoang
+null
+(adv) dại, hoang
+null
+(v) (n) sẽ; ý chí, ý định
+null
+(adj) bằng lòng, vui lòng, muốn
+null
+(adv) sẵn lòng, tự nguyện
+null
+(adj) không muốn làm điều gì; miễn cưỡng; bất đắc dĩ
+null
+(adv) miễn cưỡng; bất đắc dĩ
+null
+(n) sự bằng lòng, sự vui lòng
+null
+(v) chiếm, đọat, thu được
+null
+(adj) đang dành thắng lợi, thắng cuộc
+null
+(n) (v) gió, quấn lại, cuộn lại
+null
+lên dây, quấn, giải quyết
+null
+(n) rượu, đồ uống
+null
+(n) cánh, sự bay, sự cất cánh
+null
+(n) người thắng cuộc
+null
+(n) mùa đông
+null
+(n) dây (kim loại)
+null
+(adj) khôn ngoan, sáng suốt, thông thái
+null
+(v) (n) ước, mong muốn; sự mong ước, lòng mong muốn
+null
+(prep) với, cùng
+null
+(v) rút, rút khỏi, rút lui
+null
+(prep) trong vong thời gian, trong khoảng thời gian
+null
+(prep) không, không có
+null
+(n) (v) sự làm chứng, bằng chứng; chứng kiến, làm chứng
+null
+a
+a
